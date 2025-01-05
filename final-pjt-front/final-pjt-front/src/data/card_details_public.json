@@ -1,0 +1,1506 @@
+[
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "SK55 화물복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1223044_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADBC.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "유가보조금 지원",
+                "benefits": []
+            },
+            {
+                "title": "SK내트럭플러스 현장 할인",
+                "benefits": []
+            },
+            {
+                "title": "머핀 멤버십 서비스 제공",
+                "benefits": []
+            },
+            {
+                "title": "화물운송사업자 전용 서비스 제공",
+                "benefits": []
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "K-패스 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1225543_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOADG4.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "K-패스 안내",
+                "benefits": []
+            },
+            {
+                "title": "대중교통 10% 할인",
+                "benefits": [
+                    "대중교통(버스, 지하철) 이용 시 10% 결제일 할인 후불교통 기능을 이용한 터치(RF) 거래 시 할인"
+                ]
+            },
+            {
+                "title": "간편결제 5% 할인",
+                "benefits": []
+            },
+            {
+                "title": "생활서비스 5% 할인",
+                "benefits": []
+            },
+            {
+                "title": "서비스 유의사항",
+                "benefits": [
+                    "통합할인한도",
+                    "할인서비스 적용 기준",
+                    "지난달 이용금액 기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "K-패스 신한카드(이응패스)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1228480_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCAJDMQ.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "K패스-이응패스 안내",
+                "benefits": []
+            },
+            {
+                "title": "대중교통 10% 할인",
+                "benefits": [
+                    "대중교통(버스, 지하철) 이용 시 10% 결제일 할인 후불교통 기능을 이용한 터치(RF) 거래 시 할인"
+                ]
+            },
+            {
+                "title": "간편결제 5% 할인",
+                "benefits": []
+            },
+            {
+                "title": "생활서비스 5% 할인",
+                "benefits": []
+            },
+            {
+                "title": "서비스 유의사항",
+                "benefits": [
+                    "통합할인한도",
+                    "할인서비스 적용 기준",
+                    "지난달 이용금액 기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 국민행복",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1200235_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBSCEY.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "국가바우처",
+                "benefits": [
+                    "국가가 특정 복지 대상자에게 의료, 육아, 교육, 문화 등의 복지서비스를 지원하는 각종 보조금으로, 자격확인 절차 후 국민행복 카드를 통해 지원금을 이용할 수 있는 서비스",
+                    "바우처 이용 시점에 정상 카드 보유 시 혜택 제공",
+                    "국가바우처 서비스는 정부 정책에 따라 변경될 수 있습니다.",
+                    "국가바우처 관련 자세한 내용은 주관 기관 홈페이지를 통해 확인하세요."
+                ]
+            },
+            {
+                "title": "병원/약국 할인",
+                "benefits": []
+            },
+            {
+                "title": "온라인몰 할인",
+                "benefits": []
+            },
+            {
+                "title": "교육 할인",
+                "benefits": []
+            },
+            {
+                "title": "밀딜리버리 할인",
+                "benefits": []
+            },
+            {
+                "title": "OTT 할인",
+                "benefits": []
+            },
+            {
+                "title": "온라인몰 월회비",
+                "benefits": []
+            },
+            {
+                "title": "신한금융그룹 금융서비스",
+                "benefits": [
+                    "신한투자증권: CMA결제계좌 연계 시 수수료 혜택",
+                    "신한라이프: 어린이보험 보험료 우대"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "신한카드 국민행복 통합할인한도",
+                    "공통 유의사항"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "E1 개인택시운송사업자 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1217024_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBDCXQ.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "E1 오렌지포인트 적립",
+                "benefits": []
+            },
+            {
+                "title": "E1 LPG 충전 할인",
+                "benefits": []
+            },
+            {
+                "title": "생활 할인",
+                "benefits": []
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "할인서비스 적용 기준",
+                    "전월 이용금액 기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "E1 LPG 화물복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1225906_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADG3.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "LPG 충전 할인",
+                "benefits": []
+            },
+            {
+                "title": "LPG 충전 포인트 적립",
+                "benefits": []
+            },
+            {
+                "title": "유가보조금 지원",
+                "benefits": []
+            },
+            {
+                "title": "화물운송사업자 전용 서비스",
+                "benefits": []
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "GS칼텍스 LPG 화물복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1225986_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADG1.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "LPG 충전 할인",
+                "benefits": []
+            },
+            {
+                "title": "GS칼텍스 GS&POINT 멤버십",
+                "benefits": []
+            },
+            {
+                "title": "유가보조금 지원",
+                "benefits": []
+            },
+            {
+                "title": "화물운송사업자 전용 서비스",
+                "benefits": []
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "S-OIL LPG 화물복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1226001_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADG0.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "LPG 충전 할인",
+                "benefits": []
+            },
+            {
+                "title": "S-OIL 보너스카드 혜택",
+                "benefits": []
+            },
+            {
+                "title": "유가보조금 지원",
+                "benefits": []
+            },
+            {
+                "title": "화물운송사업자 전용 서비스",
+                "benefits": []
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "HD현대오일뱅크 LPG 화물복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1225987_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADG2.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "LPG 충전 할인",
+                "benefits": []
+            },
+            {
+                "title": "LPG 충전 포인트 적립",
+                "benefits": []
+            },
+            {
+                "title": "유가보조금 지원",
+                "benefits": []
+            },
+            {
+                "title": "화물운송사업자 전용 서비스",
+                "benefits": []
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "SK LPG 화물복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1226002_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBADFZ.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "LPG 충전 할인",
+                "benefits": []
+            },
+            {
+                "title": "머핀 멤버십, 행복충전 멤버십 서비스",
+                "benefits": []
+            },
+            {
+                "title": "유가보조금 지원",
+                "benefits": []
+            },
+            {
+                "title": "화물운송사업자 전용 서비스",
+                "benefits": []
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 경차사랑 Life",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188377_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBFBHB.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "유류세 환급",
+                "benefits": [
+                    "유류세 환급분 결제일 할인",
+                    "연간한도 30만원(2026년 12월 31일까지 시행)"
+                ]
+            },
+            {
+                "title": "기타 할인",
+                "benefits": [
+                    "주유할인: 모든 주유소 및 충전소 80원/ℓ할인",
+                    "생활서비스: 편의점, 병원/약국, 커피전문점 10% 할인, 주말 3대 마트 5% 할인",
+                    "한화손해보험 다이렉트 자동차보험 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한 햇살론카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1212999_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOACOH.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "생활쇼핑 할인",
+                "benefits": []
+            },
+            {
+                "title": "커피/제과점 할인",
+                "benefits": []
+            },
+            {
+                "title": "주말 할인",
+                "benefits": [
+                    "주말 복합 쇼핑몰 10% 결제일 할인",
+                    "주말 3대 할인점 10% 결제일 할인"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "통합할인한도 안내",
+                    "공통 유의사항 안내"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "청년동행 신한카드 B.Big(삑)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188255_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditATABN7.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "교통(버스, 지하철) 할인",
+                "benefits": [
+                    "버스, 지하철 후불 교통 이용 금액 일 200원~일 600원 할인",
+                    "전국 신한카드 후불 교통 서비스 지역에서 버스, 지하철 할인"
+                ]
+            },
+            {
+                "title": "교통(택시, KTX) 할인",
+                "benefits": [
+                    "택시, KTX 이용 금액 10% 할인",
+                    "전국 신한카드 후불 교통/비교통 카드 모두 서비스 제공(단, 비교통 카드일 경우 일반 MS거래 필요)",
+                    "전월 이용실적에 따라 월 최대 1만 5천원 할인"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV, 메가박스 온라인 영화 예매 할인",
+                    "CGV 영화 월 1회, 최대 4천원 결제일 할인"
+                ]
+            },
+            {
+                "title": "이용금액 캐시백",
+                "benefits": [
+                    "전기요금, 통신요금, 해외이용금액 5% 캐시백",
+                    "해당 카드로 전년도 일시불+할부 이용금액 10백만원 이상인 고객에 대하여 캐시백 제공(연 1회)"
+                ]
+            },
+            {
+                "title": "통합 할인",
+                "benefits": [
+                    "자주 가는 생활친화 가맹점 통합할인 서비스",
+                    "4대 백화점(롯데, 현대, 신세계, 갤러리아) 5% 할인",
+                    "커피전문점(스타벅스, 커피빈, 엔젤리너스, 카페베네) 10% 할인",
+                    "편의점 5% 할인",
+                    "이동통신요금(SKT, KT, LG U+) 5% 할인",
+                    "전월 이용실적에 따라 월 최대 2만원 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 아름다운",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188300_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAJA00J.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "아름포인트 적립",
+                "benefits": [
+                    "기부전용 포인트인 아름 포인트 적립",
+                    "모든 가맹점 이용금액의 0.5% 적립(일시불, 할부)",
+                    "아름다운가맹점 이용시에는 0.3% 추가 적립"
+                ]
+            },
+            {
+                "title": "아름포인트 사용",
+                "benefits": [
+                    "아름인(arumin.shinhancard.com)홈페이지에서 기부처를 자유롭게 선택"
+                ]
+            },
+            {
+                "title": "아름다운 서비스",
+                "benefits": [
+                    "스타벅스 컵 사이즈 UP-Grade 서비스",
+                    "3, 6, 9 숫자가 들어있는 날에 제휴 주유소 이용 시 마이신한포인트 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "국세청 복지 GS칼텍스 신한카드 Shine",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188401_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBAEA5X.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "GS칼텍스 주유시 리터당 60~100원 할인"
+                ]
+            },
+            {
+                "title": "대중교통 할인",
+                "benefits": [
+                    "후불교통카드 선택 시 대중교통 3%~7% 할인"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "롯데월드/서울랜드/에버랜드/캐리비안베이 입장권 및 자유이용권 할인"
+                ]
+            },
+            {
+                "title": "영화/뷰티/스포츠 할인",
+                "benefits": [
+                    "CGV, 메가박스 영화 할인",
+                    "뷰티 할인",
+                    "프로야구, 프로농구 할인"
+                ]
+            },
+            {
+                "title": "추가 서비스",
+                "benefits": [
+                    "학원비, 교육비 5%~10% 청구할인",
+                    "전국 병원 및 약국 5% 청구할인",
+                    "3대 백화점, 3대 마트, 점심식사 5% 청구할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "국세청 복지 신한카드 Lady",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188403_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditABAA5W.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "쇼핑 할인",
+                "benefits": [
+                    "3대 백화점 및 롯데마트 5% 결제일 할인(온라인 매장 제외)",
+                    "오아시스마켓 온라인몰 3% 결제일 할인(월 1회, 최대 5천원)"
+                ]
+            },
+            {
+                "title": "주유 적립",
+                "benefits": [
+                    "S-OIL 주유 시 60포인트/ℓ 마이신한포인트 적립(LPG 제외)"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "롯데월드, 서울랜드, 에버랜드, 캐리비안베이 입장권 및 자유이용권 할인"
+                ]
+            },
+            {
+                "title": "식음료 할인",
+                "benefits": [
+                    "빕스/투썸플레이스 20% 할인",
+                    "아웃백, 서가앤쿡 20% 할인",
+                    "롯데 호텔&리조트 식음료 10% 할인, 객실 30% 할인"
+                ]
+            },
+            {
+                "title": "생활 할인",
+                "benefits": [
+                    "CGV, 메가박스 영화 할인",
+                    "이동통신요금 2% 할인",
+                    "뷰티 할인",
+                    "스포츠 할인"
+                ]
+            },
+            {
+                "title": "추가 할인",
+                "benefits": [
+                    "학원비, 교육비 5%~10% 할인",
+                    "전국 병원 및 약국 5% 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "공무원연금복지 GS칼텍스 신한카드 Shine",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188427_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBAEARC.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "생활비 할인",
+                "benefits": [
+                    "3대 마트 5% 결제일 할인",
+                    "VIPS, 아웃백, 피자헛, 불고기브라더스, 투썸플레이스, 카리부커피 10% 할인",
+                    "학원비, 교육비 5~10% 할인",
+                    "전국 병원 및 약국 5% 할인",
+                    "이동통신사(SKT, KT, LGU+) 자동이체 요금 5% 할인"
+                ]
+            },
+            {
+                "title": "주유할인",
+                "benefits": [
+                    "GS칼텍스 주유시 리터당 60~100원 할인"
+                ]
+            },
+            {
+                "title": "기타서비스",
+                "benefits": [
+                    "유명 테마파크 할인",
+                    "공연/영화 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "공무원연금복지 SK에너지 신한카드 Oiling",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188440_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBADARD.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "SK에너지 적립",
+                "benefits": [
+                    "SK에너지 주유 시 리터당 80~120포인트 적립"
+                ]
+            },
+            {
+                "title": "대중교통 할인",
+                "benefits": [
+                    "버스, 지하철, 택시 3~7% 할인"
+                ]
+            },
+            {
+                "title": "기타 할인",
+                "benefits": [
+                    "유명 테마파크 할인",
+                    "공연/영화 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "장애인 통합복지 신한카드 2030",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188497_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAAAA8X.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "LPG 충전소 할인",
+                "benefits": []
+            },
+            {
+                "title": "무임교통기능",
+                "benefits": [
+                    "전철 무임승차 가능 중증장애인 보호자 동반 무임승차 기능 지원"
+                ]
+            },
+            {
+                "title": "고속도로 통행료 할인",
+                "benefits": [
+                    "고속도로 통행료 50% 할인 일반차로 및 하이패스 차로 통행료 할인 지원"
+                ]
+            },
+            {
+                "title": "장애인증 기능",
+                "benefits": []
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "1일 2회, 1회 10만원, 월 30만원 이용한도까지 적립 가능"
+                ]
+            },
+            {
+                "title": "식음료 할인",
+                "benefits": [
+                    "아웃백 20% 할인",
+                    "서가앤쿡 20% 결제일 할인"
+                ]
+            },
+            {
+                "title": "뷰티 할인",
+                "benefits": [
+                    "박승철 헤어스투디오 20% 할인",
+                    "박준 20% 할인",
+                    "이가자 헤어비스 15% 할인",
+                    "마샬뷰티 15% 할인"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "에버랜드, 롯데월드, 서울랜드 본인 자유이용권 50% 할인",
+                    "캐리비안베이 본인 입장권 30% 할인"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "온라인 영화 및 지방극장 영화 할인"
+                ]
+            },
+            {
+                "title": "스포츠 할인",
+                "benefits": [
+                    "LG트윈스, LG세이커스 홈 경기 할인"
+                ]
+            },
+            {
+                "title": "쥬얼리 할인",
+                "benefits": [
+                    "못된고양이 10% 결제일 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "장애인 통합복지 신한카드 Lady",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188496_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditABAA90.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "LPG 충전소 할인",
+                "benefits": []
+            },
+            {
+                "title": "무임교통기능",
+                "benefits": [
+                    "전철 무임승차 가능 중증장애인 보호자 동반 무임승차 기능 지원"
+                ]
+            },
+            {
+                "title": "고속도로 통행료 할인",
+                "benefits": [
+                    "고속도로 통행료 50% 할인 일반차로 및 하이패스 차로 통행료 할인 지원"
+                ]
+            },
+            {
+                "title": "장애인증 기능",
+                "benefits": []
+            },
+            {
+                "title": "Lady Propose",
+                "benefits": [
+                    "매월 영화 이벤트",
+                    "연간 2회 공연 이벤트"
+                ]
+            },
+            {
+                "title": "쇼핑 할인",
+                "benefits": [
+                    "3대 백화점 및 롯데마트 5% 결제일 할인",
+                    "3대 백화점 및 주요 할인점 3개월 무이자 할부"
+                ]
+            },
+            {
+                "title": "통신 할인",
+                "benefits": [
+                    "이동통신요금(SKT, KT, LGT) 자동이체 시 2% 결제일 할인",
+                    "월 1회/최대 5천원 까지 할인"
+                ]
+            },
+            {
+                "title": "주유 적립",
+                "benefits": [
+                    "S-OIL 주유 시 리터당 60원 적립",
+                    "월 4회/할인 전 금액 20만원까지 적립"
+                ]
+            },
+            {
+                "title": "식음료 할인",
+                "benefits": [
+                    "국내 유명 패밀리 레스토랑 및 커피 전문점 할인",
+                    "아웃백, VIPS, 투썸플레이스 등 20% 할인"
+                ]
+            },
+            {
+                "title": "뷰티 할인",
+                "benefits": [
+                    "박승철헤어스투디오, 박준 20% 할인",
+                    "이가자 헤어비스, 마샬뷰티 15% 할인"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "에버랜드, 롯데월드, 서울랜드 본인 자유이용권 50% 할인",
+                    "캐리비안베이 본인 입장권 30% 할인"
+                ]
+            },
+            {
+                "title": "영화/스포츠 할인",
+                "benefits": [
+                    "온라인 영화 및 지방극장 영화 할인",
+                    "스포츠 경기 할인"
+                ]
+            },
+            {
+                "title": "쥬얼리 할인",
+                "benefits": [
+                    "못된고양이 10% 결제일 할인",
+                    "루첸리 다이아몬드 10% 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "대한간호협회 신한카드 RN",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1224720_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOADDV.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "대한간호협회 특화서비스 할인",
+                "benefits": [
+                    "대한간호협회 특화서비스 연 2만원 결제일 할인 간호사 배상책임보험 가입비/대한간호협회 연회비/대한간호협회 보수교육비"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": []
+            },
+            {
+                "title": "생활편의 5% 적립",
+                "benefits": [
+                    "생활편의 이용금액 마이신한포인트 5% 적립 편의점, 커피, 택시, 온라인몰, OTT, 배달앱"
+                ]
+            },
+            {
+                "title": "적립 유의사항",
+                "benefits": []
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "대한치과위생사협회 신한카드 Lady",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1195600_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditABA221.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "Lady Propose",
+                "benefits": [
+                    "매월 영화 이벤트",
+                    "연간 2회 공연 이벤트"
+                ]
+            },
+            {
+                "title": "쇼핑 할인",
+                "benefits": [
+                    "3대 백화점 및 롯데마트 5% 결제일 할인",
+                    "3대 백화점 및 주요 할인점 3개월 무이자 할부"
+                ]
+            },
+            {
+                "title": "통신 할인",
+                "benefits": [
+                    "이동통신요금(SKT, KT, LGT) 자동이체 시 2% 결제일 할인",
+                    "월 1회/최대 5천원 까지 할인"
+                ]
+            },
+            {
+                "title": "주유 적립",
+                "benefits": [
+                    "S-OIL 주유 시 리터당 60원 적립",
+                    "월 4회/할인 전 금액 20만원까지 적립"
+                ]
+            },
+            {
+                "title": "식음료 할인",
+                "benefits": [
+                    "국내 유명 패밀리 레스토랑 및 커피 전문점 할인",
+                    "아웃백, VIPS, 투썸플레이스 등 20% 할인"
+                ]
+            },
+            {
+                "title": "뷰티 할인",
+                "benefits": [
+                    "박승철헤어스투디오, 박준 20% 할인",
+                    "이가자 헤어비스, 마샬뷰티 15% 할인"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "에버랜드, 롯데월드. 서울랜드 본인 자유이용권 50% 할인",
+                    "캐리비안베이 본인 입장권 30% 할인"
+                ]
+            },
+            {
+                "title": "영화/스포츠 할인",
+                "benefits": [
+                    "온라인 영화 및 지방극장 영화 할인",
+                    "스포츠 경기 할인"
+                ]
+            },
+            {
+                "title": "쥬얼리 할인",
+                "benefits": [
+                    "액세서라이즈 10% 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "대한치과위생사협회 GS칼텍스 신한카드 BigPlus",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1197429_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditADC46F.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "주유 포인트 적립",
+                "benefits": [
+                    "GS칼텍스 주유시 80포인트/ℓ 적립"
+                ]
+            },
+            {
+                "title": "Smart카드 서비스",
+                "benefits": [
+                    "GS칼텍스 보너스 포인트(GS&Point) 적립"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "서울랜드, 롯데월드 할인"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV/메가박스 온라인 영화 할인"
+                ]
+            },
+            {
+                "title": "쇼핑 무이자 할부",
+                "benefits": [
+                    "3대 백화점 3개월 무이자 할부"
+                ]
+            },
+            {
+                "title": "무료보험 서비스",
+                "benefits": [
+                    "대중교통 상해보험 무료가입 서비스"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "화물운전자복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188464_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBA62I.jpg",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "유가보조금 지원",
+                "benefits": [
+                    "전국 주유소에서 주유 시 화물운전자 유가보조금 자동 지급"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "SK내트럭 주유소에서 주유 시 40원/ℓ 할인"
+                ]
+            },
+            {
+                "title": "화물운송사업자 전용",
+                "benefits": [
+                    "금호타이어 KTS대리점 이용 시, 마이신한포인트 0.5% 적립",
+                    "대보그룹에서 운영하는 고속도로 휴게소 내 주유소 이용 시 1.5%, 휴게소 이용 시, 0.1% 마이신한포인트 적립",
+                    "유가보조금 잔여한도 알림서비스(SMS발송-무료)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "SK에너지 2MORE 화물복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188473_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBABFC.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "유가보조금 지원",
+                "benefits": [
+                    "전국 주유소에서 주유 시 화물운전자 유가보조금 자동 지급"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "SK내트럭 주유소에서 주유 시 최대 55원/ℓ 할인"
+                ]
+            },
+            {
+                "title": "화물운송사업자 전용",
+                "benefits": [
+                    "유가보조금 잔여한도 알림서비스(SMS발송-무료)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "알뜰주유소 화물운전자복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188475_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBAARU.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "유가보조금 지원",
+                "benefits": [
+                    "전국 주유소에서 주유 시 화물운전자 유가보조금 자동 지급"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "알뜰주유소에서 주유 시 최대 35원/ℓ 할인"
+                ]
+            },
+            {
+                "title": "화물운송사업자 전용",
+                "benefits": [
+                    "금호타이어 KTS대리점 이용 시, 마이신한포인트 0.5% 적립",
+                    "대보그룹에서 운영하는 고속도로 휴게소 내 주유소 이용 시 1.5%, 휴게소 이용 시, 0.1% 마이신한포인트 적립",
+                    "유가보조금 잔여한도 알림서비스(SMS발송-무료)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "HD현대오일뱅크 2UP 화물운전자복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188468_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBAB6Q.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "유가보조금 지원",
+                "benefits": [
+                    "전국 주유소에서 주유 시 화물자동차 유가보조금 자동 지급"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "연동형: 전월 이용금액에 따라 HD현대오일뱅크 화물우대주유소 최대 100원/ℓ 할인",
+                    "고정형: 전월 이용조건 없이 HD현대오일뱅크 화물우대주유소 50원/ℓ 할인"
+                ]
+            },
+            {
+                "title": "화물운송사업자 전용",
+                "benefits": [
+                    "금호타이어 KTS대리점 이용 시, 마이신한포인트 0.5% 적립",
+                    "대보그룹에서 운영하는 고속도로 휴게소 내 주유소 이용 시 1.5%, 휴게소 이용 시, 0.1% 마이신한포인트 적립",
+                    "유가보조금 잔여한도 알림서비스(SMS발송-무료)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "S-OIL 2UP 화물운전자복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188469_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditCBAB6P.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "유가보조금 지원",
+                "benefits": [
+                    "전국 주유소에서 주유 시 화물운전자 유가보조금 자동 지급"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "연동형: 전월 이용금액에 따라 S-OIL 화물우대주유소 최대 100원/ℓ 할인",
+                    "고정형: 전월 이용조건 없이 S-OIL 화물우대주유소 55원/ℓ 할인"
+                ]
+            },
+            {
+                "title": "화물운송사업자 전용",
+                "benefits": [
+                    "금호타이어 KTS대리점 이용 시, 마이신한포인트 0.5% 적립",
+                    "대보그룹에서 운영하는 고속도로 휴게소 내 주유소 이용 시 1.5%, 휴게소 이용 시, 0.1% 마이신한포인트 적립",
+                    "유가보조금 잔여한도 알림서비스(SMS발송-무료)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "노란우산 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188471_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBEWBJ7.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "특화 적립",
+                "benefits": [
+                    "노란우산 신한카드 포인트 월 최대 5만P 적립(A+B)",
+                    "노란우산 신한카드 포인트 적립기준 사업성경비 적립처(A) 일반가맹점 적립처(B) 가맹점주 보너스 포인트(C)",
+                    "사업성경비 적립처(A)",
+                    "일반가맹점 적립처(B)",
+                    "가맹점주 보너스 포인트(C)",
+                    "포인트 적립 관련 유의사항"
+                ]
+            },
+            {
+                "title": "생활 할인",
+                "benefits": [
+                    "병원/약국 이용금액의 5% 할인",
+                    "대중교통 이용금액의 5% 할인",
+                    "전 주유소 리터당 50원 할인(LPG 제외)"
+                ]
+            },
+            {
+                "title": "사업자지원 서비스",
+                "benefits": [
+                    "부가세 간편 신고",
+                    "무료 전자세금계산서"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "개인택시운송자사업자 신한카드 T-플러스",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188470_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBDB2M.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "기본서비스",
+                "benefits": [
+                    "유가보조금 및 유류세 면세"
+                ]
+            },
+            {
+                "title": "제휴서비스",
+                "benefits": [
+                    "SK충전소 이용 시 머핀(Muffin) 포인트 적립",
+                    "전월 이용실적에 따라 마이신한포인트 0.3%~1.0% 추가 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "S.Sing 씽화물복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188467_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBAAQV.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "유가보조금 지원",
+                "benefits": [
+                    "전국 주유소에서 주유 시 화물자동차 유가보조금 자동 지급"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "HD현대오일뱅크, GS칼텍스 화물 특화주유소 최대 70원/ℓ 할인",
+                    "HD현대오일뱅크, GS칼텍스 일반주유소 최대 25원/ℓ 할인"
+                ]
+            },
+            {
+                "title": "화물운송사업자 전용",
+                "benefits": [
+                    "금호타이어 KTS대리점 이용 시, 마이신한포인트 0.5% 적립",
+                    "대보그룹에서 운영하는 고속도로 휴게소 내 주유소 이용 시 1.5%, 휴게소 이용 시, 0.1% 마이신한포인트 적립",
+                    "유가보조금 잔여한도 알림서비스(SMS발송-무료)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "외식가족공제 신한카드 Hi-point MyShop",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188466_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAFIAAK.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "포인트 적립",
+                "benefits": [
+                    "주요 사업성 경비 1~5% 적립",
+                    "외식업중앙회 식자재 직거래 가맹점 0.5% 적립",
+                    "그 외 일반가맹점 0.3% 적립"
+                ]
+            },
+            {
+                "title": "포인트 사용처",
+                "benefits": [
+                    "상품권 교환/주유소 포인트 결제/마일리지 전환/테마파크 할인/쇼핑·온라인몰 차감결제/요식 할인/펀드불입"
+                ]
+            },
+            {
+                "title": "영화/테마파크 할인",
+                "benefits": [
+                    "CGV, 메가박스 영화 할인",
+                    "주요 놀이공원 30~50% 할인"
+                ]
+            },
+            {
+                "title": "현금서비스(단기카드대출)/론(장기카드대출) 우대",
+                "benefits": [
+                    "1년간 카드론/현금서비스(단기카드대출)/론(장기카드대출) 이자율 우대",
+                    "카드론 이용 시 기준금리 대비 20% 할인"
+                ]
+            },
+            {
+                "title": "금융 서비스",
+                "benefits": [
+                    "신한은행 사업자대출 이용 시 금리 0.3% 우대",
+                    "신한투자증권(사업자전용 CMA가입시) 금리 0.1% 우대",
+                    "신한캐피탈 신차 오토/할부금융 금리, 전세자금 대출 취급수수료 0.5% 우대"
+                ]
+            },
+            {
+                "title": "개인사업자 공통서비스",
+                "benefits": [
+                    "부가세 신고 편의 서비스",
+                    "세무주치의 서비스",
+                    "전자세금계산서 월 250건 이용 서비스"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "교직원복지 신한카드 LOVE",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1192499_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAEA9KG.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "LG계열 할인",
+                "benefits": [
+                    "LG전자 5% 할인",
+                    "뷰티플렉스 10% 할인"
+                ]
+            },
+            {
+                "title": "쇼핑 할인",
+                "benefits": [
+                    "현대, 롯데, 신세계, 갤러리아 5% 할인",
+                    "이마트, 롯데마트, 홈플러스 5% 할인",
+                    "GS홈쇼핑 5% 할인"
+                ]
+            },
+            {
+                "title": "쇼핑 무이자 할부",
+                "benefits": [
+                    "현대, 롯데, 신세계, 갤러리아 2~3개월 무이자할부",
+                    "이마트, 롯데마트, 홈플러스 2~3개월 무이자할부"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "GS칼텍스 리터당 60원 할인"
+                ]
+            },
+            {
+                "title": "요식/커피 할인",
+                "benefits": [
+                    "패밀리레스토랑 20~30% 할인",
+                    "스타벅스 20% 할인"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV, 메가박스 7천원 할인"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "에버랜드, 캐리비안베이, 롯데월드, 서울랜드 본인 자유이용권 할인"
+                ]
+            },
+            {
+                "title": "스포츠 할인",
+                "benefits": [
+                    "LG트윈스 정규시즌 홈경기 본인 2천원 할인",
+                    "LG세이커스 정규시즌 홈경기 본인 3천원 할인"
+                ]
+            },
+            {
+                "title": "생활/교통 할인",
+                "benefits": [
+                    "병원, 약국 5% 결제일할인",
+                    "온라인몰(G마켓, 옥션, 11번가) 5% 결제일할인",
+                    "대중 교통 이용시 10% 결제일할인(월 1만원 한도)"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 이용실적에 따른 통합할인한도 부여"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "한국수력원자력 임직원복지 신한카드 LOVE",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1196950_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAEAC81.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "쇼핑 할인",
+                "benefits": [
+                    "현대, 롯데, 신세계, 갤러리아 5% 할인",
+                    "이마트, 롯데마트, 홈플러스 5% 할인",
+                    "GS홈쇼핑 5% 할인"
+                ]
+            },
+            {
+                "title": "쇼핑 무이자 할부",
+                "benefits": [
+                    "현대, 롯데, 신세계, 갤러리아 2~3개월 무이자할부",
+                    "이마트, 롯데마트, 홈플러스 2~3개월 무이자할부"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "GS칼텍스 리터당 60원 할인"
+                ]
+            },
+            {
+                "title": "요식/커피 할인",
+                "benefits": [
+                    "패밀리레스토랑 20~30% 할인",
+                    "스타벅스 20% 할인"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV, 인터파크 7천원 할인"
+                ]
+            },
+            {
+                "title": "LG계열 할인",
+                "benefits": [
+                    "LG전자 5% 할인",
+                    "뷰티플렉스 10% 할인"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "에버랜드, 캐리비안베이, 롯데월드, 서울랜드 본인 자유이용권 할인"
+                ]
+            },
+            {
+                "title": "스포츠 할인",
+                "benefits": [
+                    "LG트윈스 정규시즌 홈경기 본인 2천원 할인",
+                    "LG세이커스 정규시즌 홈경기 본인 3천원 할인"
+                ]
+            },
+            {
+                "title": "LOVE 포인트",
+                "benefits": [
+                    "신한은행/신한금융투자 CMA 결제계좌 연결 시 0.2% 적립",
+                    "신한은행 금융 상품 이용실적에 따라 0.1~0.5% 추가 적립"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 이용실적에 따른 통합할인한도 부여"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "SK One+ 화물복지 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1197178_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditCBAC87.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "유가보조금 지원",
+                "benefits": [
+                    "전국 주유소에서 주유 시 화물운전자 유가보조금 자동 지급"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "SK내트럭플러스 주유소에서 주유시 최대 70원/ℓ 할인"
+                ]
+            },
+            {
+                "title": "화물운송사업자 전용",
+                "benefits": [
+                    "유가보조금 잔여한도 알림서비스(SMS) 무료 제공"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "부산가족사랑 GS칼텍스 신한카드 Shine",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188429_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBAEA4N.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "주유 할인",
+                "benefits": []
+            },
+            {
+                "title": "대중교통 할인",
+                "benefits": []
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": []
+            },
+            {
+                "title": "영화/뷰티/스포츠 할인",
+                "benefits": [
+                    "CGV, 메가박스 온라인 영화 예매 할인",
+                    "뷰티 할인",
+                    "프로야구, 프로농구 할인"
+                ]
+            },
+            {
+                "title": "추가 서비스",
+                "benefits": [
+                    "학원비, 교육비 5% 청구할인",
+                    "전국 병원 및 약국 5% 청구할인",
+                    "학습지 5% 청구할인"
+                ]
+            },
+            {
+                "title": "부산시 제공 서비스",
+                "benefits": [
+                    "공영주차장 주차요금 50% 할인",
+                    "부산시 도시철도 50% 할인",
+                    "가족사랑 우대제 참여업체 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "119 소방사랑 GS칼텍스 신한카드 Big Plus",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1217719_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditADA40K.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "주유 포인트  적립",
+                "benefits": [
+                    "GS칼텍스 주유시 80포인트/ℓ 적립"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "서울랜드, 롯데월드 할인"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "인터파크 온라인 영화 예매 시 할인 혜택 제공"
+                ]
+            },
+            {
+                "title": "쇼핑 무이자 할부",
+                "benefits": [
+                    "3대 백화점 3개월 무이자 할부"
+                ]
+            },
+            {
+                "title": "무료보험 서비스",
+                "benefits": [
+                    "대중교통 상해보험 무료가입 서비스"
+                ]
+            }
+        ]
+    }
+]

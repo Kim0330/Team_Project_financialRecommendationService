@@ -1,0 +1,166 @@
+[
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "요기패스 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1218238_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBGLCVR.png",
+        "card_benefits_category": "외식/카페",
+        "card_benefits": [
+            {
+                "title": "요기패스 구독비 캐시백",
+                "benefits": [
+                    "요기패스 구독비 최대 4천원 캐시백",
+                    "월 1회 한도",
+                    "월 구독비 납부시 해당서비스가 적용됩니다."
+                ]
+            },
+            {
+                "title": "특화 서비스(요기요, 디지털 구독) 캐시백",
+                "benefits": [
+                    "요기요 건당 1천원 캐시백",
+                    "건당 이용금액 2만원 이상인 경우 서비스 적용됩니다.",
+                    "월 3회, 1일 1회 서비스가 제공됩니다.",
+                    "디지털 구독 결제 서비스대상: 넷플릭스, 유튜브프리미엄, 왓챠플레이",
+                    "건당 이용금액 1만원 이상 결제 건에 대해 적용됩니다."
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "투썸플레이스 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1212166_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBE9CQZ.gif",
+        "card_benefits_category": "외식/카페",
+        "card_benefits": [
+            {
+                "title": "투썸플레이스 서비스",
+                "benefits": [
+                    "투썸플레이스 일반 결제 20% 캐시백",
+                    "투썸플레이스 기타 결제 3% 캐시백",
+                    "커피/음료 무료 사이즈업 쿠폰 월 1매 제공",
+                    "투썸 하트 5개 적립(최초 1회에 한 함)"
+                ]
+            },
+            {
+                "title": "공통유의사항",
+                "benefits": [
+                    "캐시백 서비스 적용 기준",
+                    "전월 이용금액 산정 기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "더본 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188326_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBEVBFY.png",
+        "card_benefits_category": "외식/카페",
+        "card_benefits": [
+            {
+                "title": "더본 특화 할인",
+                "benefits": [
+                    "빽다방 이용시 20% 할인(캐시백)",
+                    "더본(theborn) 모든 매장 이용시 5% 할인(캐시백)"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV 예매시 10% 할인(캐시백)"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 이용실적에 따른 통합할인한도 부여"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "요기요 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188364_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBAAB70.png",
+        "card_benefits_category": "외식/카페",
+        "card_benefits": [
+            {
+                "title": "요기요 할인",
+                "benefits": [
+                    "요기요 결제금액 15% 할인",
+                    "일 1회, 월 4회",
+                    "일 최대 2천원 할인",
+                    "요기요 소개 및 사용방법"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "통합할인한도 및 유의사항 안내"
+                ]
+            },
+            {
+                "title": "이디야 할인",
+                "benefits": [
+                    "이디야 10% 할인",
+                    "일 1회, 월 3회",
+                    "건당 7천원 이상 결제 시 제공",
+                    "월 최대 3천원까지 할인"
+                ]
+            },
+            {
+                "title": "CU 할인",
+                "benefits": [
+                    "CU 10% 할인",
+                    "일 1회, 월 3회",
+                    "건당 1만원 이상 결제 시 제공",
+                    "월 최대 5천원까지 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "신한카드 S-Choice(선택형) 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188347_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBA89X1.png",
+        "card_benefits_category": "외식/카페",
+        "card_benefits": [
+            {
+                "title": "선택형 할인",
+                "benefits": [
+                    "신한 S-Choice 체크카드의 선택형 서비스(택 1)\n                                                                \n선택 1: 버스, 지하철, 택시 이용 요금의 10% 할인\n선택 2: 모든 커피 전문점 이용 금액의 20% 할인\n선택 3: 4대 백화점, 3대 할인점 이용 금액의 10% 할인",
+                    "선택 1: 버스, 지하철, 택시 이용 요금의 10% 할인",
+                    "선택 2: 모든 커피 전문점 이용 금액의 20% 할인",
+                    "선택 3: 4대 백화점, 3대 할인점 이용 금액의 10% 할인"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 실적구간에 따른 할인(캐시백) 한도 제공"
+                ]
+            },
+            {
+                "title": "신한은행 금융서비스",
+                "benefits": [
+                    "신한은행 전자금융(인터넷뱅킹, 폰뱅킹, 신한뱅킹) 이체 수수료 월 10회 면제",
+                    "신한은행 CD/ATM을 이용한 마감 후 인출 수수료 월 10회 면제"
+                ]
+            },
+            {
+                "title": "VISA 서비스",
+                "benefits": [
+                    "외식, 카페, 뷰티 등 VISA 제휴 가맹점 모바일 할인 쿠폰 제공"
+                ]
+            }
+        ]
+    }
+]

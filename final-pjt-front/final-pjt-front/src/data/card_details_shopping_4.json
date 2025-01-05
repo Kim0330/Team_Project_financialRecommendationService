@@ -1,0 +1,282 @@
+[
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "GS Prime 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1218653_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBOACQI.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "GS리테일 특별 적립",
+                "benefits": [
+                    "GS리테일 가맹점 이용 시 GS&POINT 1% 적립",
+                    "GS PAY 이용 시 GS&POINT 1% 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "아모레퍼시픽 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1211421_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBOACPO.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "아모레퍼시픽 8% 적립",
+                "benefits": [
+                    "아모레퍼시픽 가맹점 이용 시 결제금액의 8% 아모레퍼시픽 뷰티포인트 적립\n        월 최대 1만 2천 포인트까지 적립"
+                ]
+            },
+            {
+                "title": "특화 가맹점 3% 적립",
+                "benefits": [
+                    "할인점: 이마트/이마트 트레이더스/홈플러스/롯데마트/롯데빅마켓",
+                    "백화점: 롯데백화점/신세계백화점/현대백화점",
+                    "면세점/일반전문학원/커피전문점/이·미용/주유소(LPG 충전소포함) 업종"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "포인트 적립 유의사항"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "L.PAY 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1197028_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckAXHC7P.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "기본 적립",
+                "benefits": [
+                    "국내/해외 이용금액 0.1% 포인트 적립"
+                ]
+            },
+            {
+                "title": "L.PAY 소개 및 자동등록 안내",
+                "benefits": [
+                    "L.PAY 소개",
+                    "L.PAY 자동 등록",
+                    "L.POINT 소개"
+                ]
+            },
+            {
+                "title": "특별 적립",
+                "benefits": [
+                    "후불교통(버스/지하철) 및 택시, 롯데 더드림영역 이용금액 0.5% 포인트 적립"
+                ]
+            },
+            {
+                "title": "통합적립한도",
+                "benefits": [
+                    "통합적립한도 안내"
+                ]
+            },
+            {
+                "title": "추가 적립",
+                "benefits": [
+                    "특별적립 대상 롯데 더드림영역에서 L.PAY 결제시 최대 2.5% 추가 포인트 적립"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "공통 유의사항 안내"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "마이 홈플러스 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1187971_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBEDB98.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": []
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "신세계 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1187968_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBEBB7N.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "신세계멤버십 혜택",
+                "benefits": [
+                    "신세계백화점, 신세계포인트 홈페이지 참조"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "롯데월드, 서울랜드 자유이용권 50% 할인"
+                ]
+            },
+            {
+                "title": "포인트 적립",
+                "benefits": [
+                    "주요 업종 0.5%~1% 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "영화/커피 캐시백",
+                "benefits": [
+                    "신세계백화점 입점영화관 토요일, 일요일 2천원 캐시백",
+                    "스타벅스 사이즈업 지원 캐시백(500원)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "CJ ONE 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188363_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBA9BM9.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "영화 캐시백",
+                "benefits": [
+                    "CGV 영화예매 시 최대 7천원 캐시백"
+                ]
+            },
+            {
+                "title": "통합캐시백한도",
+                "benefits": [
+                    "전월 이용실적에 따른 통합캐시백한도 부여"
+                ]
+            },
+            {
+                "title": "쇼핑 캐시백",
+                "benefits": [
+                    "올리브영 10% 캐시백/CJ ONE 5% 포인트 추가 적립",
+                    "CJ mall 5% 캐시백"
+                ]
+            },
+            {
+                "title": "식음료 캐시백",
+                "benefits": [
+                    "VIPS/계절밥상 10% 캐시백",
+                    "투썸플레이스/뚜레쥬르 10% 캐시백"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "메가쇼핑 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1195474_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBE7BZG.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "메가마트 이용금액 적립",
+                "benefits": [
+                    "메가마트 매장 내 결제 시 메가포인트 0.5% 적립",
+                    "전월 실적조건 및 적립한도 없음",
+                    "메가마트 자체 추가 적립(0.2%)으로 총 0.7% 적립"
+                ]
+            },
+            {
+                "title": "메가마트 이외 이용금액 적립",
+                "benefits": [
+                    "전가맹점 메가포인트 0.1% 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "다이소 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188330_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBAAB0O.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "다이소 캐시백",
+                "benefits": [
+                    "다이소 20% 캐시백",
+                    "건당 3천원 이상 이용 시 캐시백 적용",
+                    "일 1회, 월 3회 캐시백 적용",
+                    "월 최대 7천원 할인"
+                ]
+            },
+            {
+                "title": "영화 캐시백",
+                "benefits": [
+                    "CGV 20% 캐시백",
+                    "건당 1만원 이상 이용 캐시백 적용",
+                    "일 1회, 월 2회 캐시백 적용",
+                    "월 최대 5천원 캐시백"
+                ]
+            },
+            {
+                "title": "편의점 캐시백",
+                "benefits": [
+                    "GS25 10% 캐시백",
+                    "일 1회, 월 5회 캐시백 적용",
+                    "월 최대 3천원 캐시백"
+                ]
+            },
+            {
+                "title": "통합캐시백한도",
+                "benefits": [
+                    "다이소 신한카드 체크 통합 캐시백한도 안내"
+                ]
+            },
+            {
+                "title": "스타벅스 캐시백",
+                "benefits": [
+                    "스타벅스 10% 캐시백",
+                    "건당 1만원 이상 이용 시 시 캐시백 적용",
+                    "일 1회, 월 5회 캐시백 적용",
+                    "월 최대 5천원 캐시백"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "탑마트 보너스포인트 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1200927_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBOACFF.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "탑마트 이용금액 적립",
+                "benefits": [
+                    "서원유통 탑마트 매장 내 결제 시 탑보너스포인트 1.0% 적립 전월 이용금액 조건 및 적립한도 없음"
+                ]
+            },
+            {
+                "title": "수목돌풍 추가적립",
+                "benefits": [
+                    "서원유통 탑마트 매장 수/목요일 결제시 탑보너스포인트 0.2% 추가 적립 전월(1일~말일)의 거래시점 이용금액이 30만원 이상인 경우 서비스 적용\n적립한도 없음",
+                    "전월(1일~말일)의 거래시점 이용금액이 30만원 이상인 경우 서비스 적용",
+                    "적립한도 없음"
+                ]
+            },
+            {
+                "title": "탑마트 이외 이용금액 적립",
+                "benefits": [
+                    "서원유통 탑마트를 제외한 국내/외 가맹점 탑보너스포인트 0.1% 적립 전월 이용금액 조건 및 적립한도 없음"
+                ]
+            }
+        ]
+    }
+]

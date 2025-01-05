@@ -1,0 +1,1083 @@
+[
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Point Plan+",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1228407_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditPOCDMG.gif",
+        "card_benefits_category": "외식/카페",
+        "card_benefits": [
+            {
+                "title": "일상 생활비 적립",
+                "benefits": [
+                    "국내 결제금액 포인트 적립 건당 결제금액별 0.7~3% 포인트 적립\n신한 SOL페이 결제 시 0.5% 추가 적립",
+                    "건당 결제금액별 0.7~3% 포인트 적립",
+                    "신한 SOL페이 결제 시 0.5% 추가 적립",
+                    "해외 결제금액 1% 포인트 적립",
+                    "가족행사월(5월, 12월) 적립 한도 1만 포인트 추가 제공"
+                ]
+            },
+            {
+                "title": "OTT 적립",
+                "benefits": [
+                    "OTT 최대 2천 포인트 적립 넷플릭스, 유튜브 프리미엄, 티빙"
+                ]
+            },
+            {
+                "title": "주말 외식비 적립",
+                "benefits": [
+                    "주말 음식점/배달앱 건당 2만원 이상 결제 시 1천 포인트 적립 음식점: 한식, 일식, 양식, 중식, 뷔페, 맥주홀, 일반대중음식, 패스트푸드, 제과점 업종 배달앱: 배달의민족, 요기요, 땡겨요",
+                    "음식점: 한식, 일식, 양식, 중식, 뷔페, 맥주홀, 일반대중음식, 패스트푸드, 제과점 업종",
+                    "배달앱: 배달의민족, 요기요, 땡겨요"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "적립 서비스 유의사항",
+                    "전월 이용금액 산정기준"
+                ]
+            },
+            {
+                "title": "정기결제 자동납부 적립",
+                "benefits": [
+                    "정기결제 자동납부 시 2만원당 1천 포인트 적립 도시가스/전기요금, 이동통신요금(SKT, KT, LG U+)"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Point Plan",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1226113_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditPOADHL.gif",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "일상 생활비 적립",
+                "benefits": [
+                    "국내 건당 결제금액별 0.5~3% 포인트 적립 신한 SOL페이 국내 결제 시 0.1% 추가 적립",
+                    "해외 결제금액 1% 포인트 적립",
+                    "가족행사월(5월, 12월) 적립 한도 1만 포인트 추가 제공"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "적립 서비스 유의사항",
+                    "전월 이용금액 산정기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 처음(ANNIVERSE)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1229296_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBSCDNG.gif",
+        "card_benefits_category": "외식/카페",
+        "card_benefits": [
+            {
+                "title": "오늘도 5% 적립",
+                "benefits": [
+                    "음식점·카페·편의점·온라인쇼핑 5% 마이신한포인트 적립 음식점: 한식, 중식, 일식, 양식, 일반대중음식, 패스트푸드, 뷔페 업종\n카페: 스타벅스, 블루보틀, 엔제리너스, 이디야, 폴바셋, 투썸플레이스, 빽다방, 커피전문점 업종\n편의점: CU, GS25, 이마트24, 세븐일레븐\n온라인쇼핑: 쿠팡, 컬리",
+                    "음식점: 한식, 중식, 일식, 양식, 일반대중음식, 패스트푸드, 뷔페 업종",
+                    "카페: 스타벅스, 블루보틀, 엔제리너스, 이디야, 폴바셋, 투썸플레이스, 빽다방, 커피전문점 업종",
+                    "편의점: CU, GS25, 이마트24, 세븐일레븐",
+                    "온라인쇼핑: 쿠팡, 컬리"
+                ]
+            },
+            {
+                "title": "[소비관리 보너스] ① 계획소비 적립",
+                "benefits": [
+                    "신용카드로 무한 소비가 두려울 때 ‘계획 소비’하고 포인트도 받아요. 이번 달 목표 소비 금액 설정하면 5백 마이신한포인트 적립\n이번 달 목표 소비 금액 달성하면 5천 마이신한포인트 적립",
+                    "이번 달 목표 소비 금액 설정하면 5백 마이신한포인트 적립",
+                    "이번 달 목표 소비 금액 달성하면 5천 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "일상 속 5% 적립",
+                "benefits": [
+                    "생활·여행·패션 5% 마이신한포인트 적립 생활: 올리브영(온·오프라인), 다이소(오프라인), 오늘의집(온라인)\n여행: 택시, KTX, 해외 일시불\n패션: 무신사, 지그재그, W컨셉, 29CM, 에이블리",
+                    "생활: 올리브영(온·오프라인), 다이소(오프라인), 오늘의집(온라인)",
+                    "여행: 택시, KTX, 해외 일시불",
+                    "패션: 무신사, 지그재그, W컨셉, 29CM, 에이블리"
+                ]
+            },
+            {
+                "title": "[소비관리 보너스] ② 즉시결제 적립",
+                "benefits": [
+                    "신용카드도 ‘즉시결제’하면 체크카드처럼 이용할 수 있어요. 이번 달 이용한 일시불 이용금액을 이번 달 즉시결제하면 0.3% 적립",
+                    "이번 달 이용한 일시불 이용금액을 이번 달 즉시결제하면 0.3% 적립"
+                ]
+            },
+            {
+                "title": "정기결제 최대 20% 적립",
+                "benefits": [
+                    "통신 10%·OTT 15%·멤버십 20% 마이신한포인트 적립 통신: SKT, KT, LGU+ OTT: 넷플릭스, 유튜브 프리미엄, 티빙, 디즈니+, SPOTV NOW 멤버십: 쿠팡 와우 멤버십, 네이버플러스멤버십",
+                    "통신: SKT, KT, LGU+",
+                    "OTT: 넷플릭스, 유튜브 프리미엄, 티빙, 디즈니+, SPOTV NOW",
+                    "멤버십: 쿠팡 와우 멤버십, 네이버플러스멤버십"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "서비스별 월 통합 적립 한도",
+                    "적립 서비스 유의사항",
+                    "전월 이용금액 산정 기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 처음",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1227020_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBSCDJK.gif",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "오늘도 5% 적립",
+                "benefits": [
+                    "음식점·카페·편의점·온라인쇼핑 5% 마이신한포인트 적립 음식점: 한식, 중식, 일식, 양식, 일반대중음식, 패스트푸드, 뷔페 업종 카페: 스타벅스, 블루보틀, 엔제리너스, 이디야, 폴바셋, 투썸플레이스, 빽다방, 커피전문점 업종\n편의점: CU, GS25, 이마트24, 세븐일레븐\n온라인쇼핑: 쿠팡, 컬리",
+                    "음식점: 한식, 중식, 일식, 양식, 일반대중음식, 패스트푸드, 뷔페 업종",
+                    "카페: 스타벅스, 블루보틀, 엔제리너스, 이디야, 폴바셋, 투썸플레이스, 빽다방, 커피전문점 업종",
+                    "편의점: CU, GS25, 이마트24, 세븐일레븐",
+                    "온라인쇼핑: 쿠팡, 컬리"
+                ]
+            },
+            {
+                "title": "[소비관리 보너스] ① 계획소비 적립",
+                "benefits": [
+                    "신용카드로 무한 소비가 두려울 때 ‘계획 소비’하고 포인트도 받아요. 이번 달 목표 소비 금액 설정하면 5백 마이신한포인트 적립 이번 달 목표 소비 금액 달성하면 5천 마이신한포인트 적립",
+                    "이번 달 목표 소비 금액 설정하면 5백 마이신한포인트 적립",
+                    "이번 달 목표 소비 금액 달성하면 5천 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "일상 속 5% 적립",
+                "benefits": [
+                    "생활·여행·패션 5% 마이신한포인트 적립 생활: 올리브영(온·오프라인), 다이소(오프라인), 오늘의집(온라인) 여행: 택시, KTX, 해외 일시불\n패션: 무신사, 지그재그, W컨셉, 29CM, 에이블리",
+                    "생활: 올리브영(온·오프라인), 다이소(오프라인), 오늘의집(온라인)",
+                    "여행: 택시, KTX, 해외 일시불",
+                    "패션: 무신사, 지그재그, W컨셉, 29CM, 에이블리"
+                ]
+            },
+            {
+                "title": "[소비관리 보너스] ② 즉시결제 적립",
+                "benefits": [
+                    "신용카드도 ‘즉시결제’하면 체크카드처럼 이용할 수 있어요. 이번 달 이용한 일시불 이용금액을 이번 달 즉시결제하면 0.3% 적립",
+                    "이번 달 이용한 일시불 이용금액을 이번 달 즉시결제하면 0.3% 적립"
+                ]
+            },
+            {
+                "title": "정기결제 최대 20% 적립",
+                "benefits": [
+                    "통신 10%·OTT 15%·멤버십 20% 마이신한포인트 적립 통신: SKT, KT, LGU+ OTT: 넷플릭스, 유튜브 프리미엄, 티빙, 디즈니+, SPOTV NOW 멤버십: 쿠팡 와우 멤버십, 네이버플러스멤버십",
+                    "통신: SKT, KT, LGU+",
+                    "OTT: 넷플릭스, 유튜브 프리미엄, 티빙, 디즈니+, SPOTV NOW",
+                    "멤버십: 쿠팡 와우 멤버십, 네이버플러스멤버십"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "서비스별 월 통합 적립 한도",
+                    "적립 서비스 유의사항",
+                    "전월 이용금액 산정 기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 The PET",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1228839_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBLCDMH_1.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "할인서비스 적용 기준",
+                    "전월 이용금액 산정기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 봄",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1221135_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAQDD6N.gif",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "기본 서비스",
+                "benefits": [
+                    "국내외 이용금액 최대 0.5% 캐시백",
+                    "분기 5천원 추가 캐시백",
+                    "연 2만원 추가 캐시백"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "캐시백 서비스 적용기준",
+                    "전월 및 분기/연 이용금액 산정기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 플리",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1216829_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditPLACXP.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "Daily 결제일 할인",
+                "benefits": [
+                    "국내 이용금액 최대 0.9% 결제일 할인 신한 SOL페이를 통한 결제 시 0.9% 결제일 할인\n신한 SOL페이가 아닌 방식으로 결제 시 0.5% 결제일 할인",
+                    "신한 SOL페이를 통한 결제 시 0.9% 결제일 할인",
+                    "신한 SOL페이가 아닌 방식으로 결제 시 0.5% 결제일 할인",
+                    "해외 이용금액 0.5% 결제일 할인"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "할인/적립 서비스 유의사항",
+                    "전월이용금액 산정 기준"
+                ]
+            },
+            {
+                "title": "Weekly 할인 쿠폰",
+                "benefits": [
+                    "매주 1회 할인 쿠폰 제공 월 4회, 3천원 쿠폰 1회, 1천원 쿠폰 3회",
+                    "쿠폰 받기 후 이용 거래 건부터 적용",
+                    "전월 이용금액 40만원 이상, 5천원 이상 거래 건"
+                ]
+            },
+            {
+                "title": "Monthly 단골 적립",
+                "benefits": [
+                    "My Pick 가맹점 월 3, 6, 9번째 이용 건 마이신한포인트 1,000포인트 적립\n        월 최대 3회, 3천 포인트"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 플리(산리오캐릭터즈)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1220329_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditPLAD43.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "Daily 결제일 할인",
+                "benefits": [
+                    "국내 이용금액 최대 0.9% 결제일 할인 신한 SOL페이를 통한 결제 시 0.9% 결제일 할인\n신한 SOL페이가 아닌 방식으로 결제 시 0.5% 결제일 할인",
+                    "신한 SOL페이를 통한 결제 시 0.9% 결제일 할인",
+                    "신한 SOL페이가 아닌 방식으로 결제 시 0.5% 결제일 할인",
+                    "해외 이용금액 0.5% 결제일 할인"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "할인/적립 서비스 유의사항",
+                    "전월이용금액 산정 기준"
+                ]
+            },
+            {
+                "title": "Weekly 할인 쿠폰",
+                "benefits": [
+                    "매주 1회 할인 쿠폰 제공 월 4회, 3천원 쿠폰 1회, 1천원 쿠폰 3회",
+                    "쿠폰 받기 후 이용 거래 건부터 적용",
+                    "전월 이용금액 40만원 이상, 5천원 이상 거래 건"
+                ]
+            },
+            {
+                "title": "Monthly 단골 적립",
+                "benefits": [
+                    "My Pick 가맹점 월 3, 6, 9번째 이용 건 마이신한포인트 1,000포인트 적립 월 최대 3회, 3천 포인트"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 핏(Fit)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1218726_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAXKD3X.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "일상영역 - Stamp 기본 적립",
+                "benefits": [
+                    "일상 영역별 5회 이용 시 스탬프 적립(일상 영역: 편의점/커피/요식/온라인)",
+                    "Stamp 개수별 최대 4천 포인트 적립"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "공통 유의사항 안내",
+                    "전월/전분기 이용금액 산정기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 My TeenS(포차코)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1224263_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBSADDS.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "GS POP 서비스",
+                "benefits": [
+                    "GS25 행사상품 현장 즉시 할인 및 추가 증정 행사",
+                    "GS&POINT 적립\n        GS리테일 이용 시 적립"
+                ]
+            },
+            {
+                "title": "카드 결제 이용 한도",
+                "benefits": [
+                    "기본 한도 월 10만원(일시불, 할부 이용 가능)",
+                    "월 10만원(일시불, 할부 이용 가능)",
+                    "추가 한도 월 최대 50만원까지 1만원 단위 설정 가능",
+                    "월 최대 50만원까지 1만원 단위 설정 가능"
+                ]
+            },
+            {
+                "title": "기프티콘 서비스",
+                "benefits": [
+                    "이용 금액 구간별 모바일 기프티콘 발송 GS25 2천원/4천원/6천원"
+                ]
+            },
+            {
+                "title": "공통유의사항",
+                "benefits": [
+                    "신한카드 My TeenS 서비스 안내사항"
+                ]
+            },
+            {
+                "title": "카드 결제 가능 영역",
+                "benefits": [
+                    "기본생활 교통, 병원/약국, 카페/음식점, 배달앱(배달의민족, 요기요, 쿠팡이츠)",
+                    "교통, 병원/약국, 카페/음식점, 배달앱(배달의민족, 요기요, 쿠팡이츠)",
+                    "자녀교육 학원, 서점, 스터디카페",
+                    "학원, 서점, 스터디카페",
+                    "일상쇼핑 편의점, 문구, 백화점, 온라인 쇼핑, 올리브영, 다이소",
+                    "편의점, 문구, 백화점, 온라인 쇼핑, 올리브영, 다이소",
+                    "취미여가 PC방, 미용실, 사진관, 전국 주요 놀이동산, 영화관",
+                    "PC방, 미용실, 사진관, 전국 주요 놀이동산, 영화관"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 구독 좋아요",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1220057_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBNCD4E.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "디지털 구독 할인",
+                "benefits": [
+                    "5개 영역 디지털 구독 가맹점 정기결제 이용 시 결제일 할인\n        월간 통합 할인한도 이내, 결제금액 100% 할인"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "공통 유의사항 안내",
+                    "전월 이용금액 산정기준"
+                ]
+            },
+            {
+                "title": "정기결제 자동이체 할인",
+                "benefits": [
+                    "서비스 대상 정기결제 가맹점 자동이체 시 결제일 할인 건별 1천원, 월 최대 2천원 할인"
+                ]
+            },
+            {
+                "title": "생활서비스 할인",
+                "benefits": [
+                    "서비스 대상 배달앱/생활편의 가맹점 이용 시 결제일 할인 월간 통합 할인한도 이내, 결제금액 10% 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "#Pay 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1211510_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAXICIY.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "간편결제 적립",
+                "benefits": [
+                    "7개 간편결제(Pay)로 국내 거래시 5% 마이신한포인트 적립",
+                    "온/오프라인 이용 시 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 YaY",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1196674_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAXGC75_VISA.gif",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "마리아쥬 서비스 적립",
+                "benefits": [
+                    "OTT 30% 포인트 적립",
+                    "밀딜리버리 최대 30% 포인트 적립(기본 15%+추가 15%)"
+                ]
+            },
+            {
+                "title": "공통유의사항",
+                "benefits": [
+                    "신한카드 YaY 포인트 적립서비스 유의사항",
+                    "신한카드 YaY 전월이용금액 기준 유의사항"
+                ]
+            },
+            {
+                "title": "온라인쇼핑 지원 적립",
+                "benefits": [
+                    "온라인 쇼핑몰 최대 12,500P 적립"
+                ]
+            },
+            {
+                "title": "모바일 단독 카드",
+                "benefits": [
+                    "모바일 단독 카드 소개 및 카드정보 확인 방법 안내"
+                ]
+            },
+            {
+                "title": "홈DIY 적립",
+                "benefits": [
+                    "홈게임방 10% 포인트 적립",
+                    "홈바/홈카페 10% 포인트 적립",
+                    "홈테리어 10% 포인트 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 My TeenS",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1210370_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBSACIO.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "GS POP 서비스",
+                "benefits": [
+                    "GS25 행사상품 현장 즉시 할인 및 추가 증정 행사",
+                    "GS&POINT GS리테일 이용 시 적립"
+                ]
+            },
+            {
+                "title": "카드 결제 이용 한도",
+                "benefits": [
+                    "기본 한도 월 10만원(일시불, 할부 이용 가능)",
+                    "월 10만원(일시불, 할부 이용 가능)",
+                    "추가 한도 월 최대 50만원까지 1만원 단위 설정 가능",
+                    "월 최대 50만원까지 1만원 단위 설정 가능"
+                ]
+            },
+            {
+                "title": "기프티콘 서비스",
+                "benefits": [
+                    "이용 금액 구간별 모바일 기프티콘 발송 GS25 2천원/4천원/6천원"
+                ]
+            },
+            {
+                "title": "공통유의사항",
+                "benefits": [
+                    "신한카드 My TeenS 서비스 안내사항"
+                ]
+            },
+            {
+                "title": "카드 결제 가능 영역",
+                "benefits": [
+                    "기본생활 교통, 병원/약국, 카페/음식점, 배달앱(배달의민족, 요기요, 쿠팡이츠)",
+                    "교통, 병원/약국, 카페/음식점, 배달앱(배달의민족, 요기요, 쿠팡이츠)",
+                    "자녀교육 학원, 서점, 스터디카페",
+                    "학원, 서점, 스터디카페",
+                    "일상쇼핑 편의점, 문구, 백화점, 온라인 쇼핑, 올리브영, 다이소",
+                    "편의점, 문구, 백화점, 온라인 쇼핑, 올리브영, 다이소",
+                    "취미여가 PC방, 미용실, 사진관, 전국 주요 놀이동산, 영화관",
+                    "PC방, 미용실, 사진관, 전국 주요 놀이동산, 영화관"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 알뜰More(알뜰모아)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1219175_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOAD16.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": []
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 혼디모앙",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1200745_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOACF4.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "베이직 서비스",
+                "benefits": [
+                    "전 가맹점 0.2% 기본 적립",
+                    "제주지역 최대 0.6% 추가 적립"
+                ]
+            },
+            {
+                "title": "생활 할인",
+                "benefits": [
+                    "대중교통 10% 할인",
+                    "통신비 5% 할인"
+                ]
+            },
+            {
+                "title": "제주 특화 서비스",
+                "benefits": [
+                    "대형마트/지역유통점 3~10% 적립",
+                    "주유/전기차 충전소 5~30% 적립",
+                    "레저/커피 5~10% 적립"
+                ]
+            },
+            {
+                "title": "공통유의사항",
+                "benefits": [
+                    "포인트 적립 유의사항",
+                    "전월이용금액 기준 유의사항"
+                ]
+            },
+            {
+                "title": "온라인쇼핑 할인",
+                "benefits": [
+                    "온라인 쇼핑몰 2,500원 할인\n        G마켓, 11번가, 쿠팡"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "땡겨요 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1215112_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBOBCT2.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "땡겨요 앱 적립",
+                "benefits": [
+                    "땡겨요 앱 이용금액 마이신한포인트 10% 적립\n        1일 최대 2천 포인트 적립"
+                ]
+            },
+            {
+                "title": "편의점 적립",
+                "benefits": [
+                    "편의점 이용금액 마이신한포인트 5% 적립\n        \n1일 최대 500 포인트 적립",
+                    "1일 최대 500 포인트 적립"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "포인트 적립 관련 유의사항",
+                    "전월 이용금액 산정기준"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Deep Making",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188286_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBLABSJ.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "Making 17 서비스",
+                "benefits": [
+                    "17개 서비스 영역 중 포인트 적립받을 영역과 적립률을 직접 선택\n        \n1개 영역에 대해 1~5%까지(1% 단위) 적립률 선택이 가능하며 선택영역 적립률의 합은 총 17%입니다.\n\n총 17%는 선택영역 적립률 숫자의 단순 합(고객설정값)으로 사용금액 대비 17% 적립을 의미하지 않습니다.",
+                    "1개 영역에 대해 1~5%까지(1% 단위) 적립률 선택이 가능하며 선택영역 적립률의 합은 총 17%입니다."
+                ]
+            },
+            {
+                "title": "적립 유의사항",
+                "benefits": [
+                    "전월 이용금액(1일~말일, 일시불+할부)이 40만원 이상인 경우 제공",
+                    "Making 17 서비스 각 영역별 7천 포인트 한도 내 적립",
+                    "My Pick 서비스 일 1회, 거래시점 이용금액 5천원 이상인 경우에 한하여 제공"
+                ]
+            },
+            {
+                "title": "Making 17 서비스 영역 안내",
+                "benefits": [
+                    "쇼핑/여행/푸드/생활 영역 별 대상 가맹점 안내"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            },
+            {
+                "title": "My Pick 서비스",
+                "benefits": [
+                    "My Pick 가맹점 선택하여 월 3,6,9번째 이용시마다 마이신한포인트 2천 포인트 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Deep Taking",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188287_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBLBBSK.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "Taking 10",
+                "benefits": [
+                    "17개 서비스 영역 중 월별 이용금액이 많은 최대 5개 영역에 자동으로 포인트 적립 17개 서비스 영역에서 금액 기준으로 월별(1일~말일) 가장 많이 이용한 5개 영역에 대해 각 2%씩 자동으로 적립",
+                    "17개 서비스 영역에서 금액 기준으로 월별(1일~말일) 가장 많이 이용한 5개 영역에 대해 각 2%씩 자동으로 적립"
+                ]
+            },
+            {
+                "title": "적립 유의사항",
+                "benefits": [
+                    "전월 이용금액(1일~말일, 일시불+할부)이 40만원 이상인 경우 제공",
+                    "Taking 10 서비스 각 영역별 1만 포인트 한도 내 적립",
+                    "My Pick 서비스 일 1회, 거래시점 이용금액 5천원 이상인 경우에 한하여 제공"
+                ]
+            },
+            {
+                "title": "Taking 10 영역안내",
+                "benefits": [
+                    "쇼핑/여행/푸드/생활 영역 별 대상 가맹점 안내"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            },
+            {
+                "title": "My Pick",
+                "benefits": [
+                    "My Pick 가맹점 월 3, 6, 9번째 이용시마다 마이신한포인트 1천 포인트 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Deep Once",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1192802_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBNAC46.png",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": [
+            {
+                "title": "렌탈 적립",
+                "benefits": [
+                    "10개 렌탈사 자동이체 이용 시 최대 7천 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "적립 유의사항",
+                "benefits": [
+                    "전월 일시불/할부 사용액에 따라 당월 각 사용 건에 대한 적립포인트 결정"
+                ]
+            },
+            {
+                "title": "생활월납 적립",
+                "benefits": [
+                    "7개 생활월납 자동이체 이용 시 최대 6천 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "디지털 구독 적립",
+                "benefits": [
+                    "7개 디지털 구독 서비스 정기결제 이용 시 최대 6천 마이신한포인트 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Deep Once Plus",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1192801_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBNBC47.png",
+        "card_benefits_category": "외식/카페",
+        "card_benefits": [
+            {
+                "title": "렌탈 적립",
+                "benefits": [
+                    "10개 렌탈사 자동이체 이용 시 최대 7천 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "Plus 적립",
+                "benefits": [
+                    "커피(업종), 편의점(업종), 해외(온/오프라인) 이용 시 최대 3천 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "생활월납 적립",
+                "benefits": [
+                    "7개 생활월납 자동이체 이용 시 최대 6천 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "적립 유의사항",
+                "benefits": [
+                    "전월 일시불/할부 사용액에 따라 당월 각 사용 건에 대한 적립포인트 결정"
+                ]
+            },
+            {
+                "title": "디지털 구독 적립",
+                "benefits": [
+                    "7개 디지털 구독 서비스 정기결제 이용 시 최대 6천 마이신한포인트 적립"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": null,
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1187937_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAUAARH.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "월납(공과금) 할인",
+                "benefits": [
+                    "전기요금, 도시가스요금, 통신요금 할인"
+                ]
+            },
+            {
+                "title": "특화 서비스",
+                "benefits": [
+                    "인테이크몰(www.shopintake.com)에서 Mr.Life로 결제 시 20% 할인"
+                ]
+            },
+            {
+                "title": "TIME 할인",
+                "benefits": [
+                    "365일 24시간 10% 할인서비스(편의점, 병원/약국, 세탁소 업종)",
+                    "오후 9시~오전9시 10% 할인서비스(온라인 쇼핑, 택시, 식음료 업종)"
+                ]
+            },
+            {
+                "title": "주말 할인",
+                "benefits": [
+                    "3대 마트 10% 할인",
+                    "4대 정유사 리터당 60원 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name":"신한카드 Simple+",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188272_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBA7AQ7.gif",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": [
+            {
+                "title": "전가맹점 캐시백",
+                "benefits": [
+                    "전 가맹점 0.7% 캐시백",
+                    "이동통신요금 자동이체 추가 0.7% 캐시백"
+                ]
+            },
+            {
+                "title": "잔돈 할인",
+                "benefits": [
+                    "생활친화가맹점 잔돈 할인"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV, 메가박스 영화 예매 최대 3,000원 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Simple Platinum#",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188273_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBA7A3X.gif",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "가맹점 캐시백",
+                "benefits": [
+                    "전가맹점 1% 캐시백",
+                    "생활밀착 가맹점 추가 0.7% 캐시백"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "서울랜드 본인 자유이용권 50% 할인"
+                ]
+            },
+            {
+                "title": "잔돈 할인",
+                "benefits": [
+                    "생활친화가맹점 잔돈 할인"
+                ]
+            },
+            {
+                "title": "Platinum#",
+                "benefits": [
+                    "인천공항 우대 서비스",
+                    "주요지역 주차장 무료이용 서비스",
+                    "전국 7개 거리 내 패션/요식 관련 매장에서 2% 적립"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV, 메가박스 영화 예매 최대 3,000원 할인"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Cube Platinum#",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188282_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAPB9YL.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "선택 할인",
+                "benefits": [
+                    "선택서비스 10개 중 5개, 5% 할인",
+                    "전월 카드 사용금액에 따라 5천원에서7만원 까지 생활 필수 영역 중 직접 선택한 5개 서비스에서 5% 할인 서비스 제공(단, 주유 서비스는 리터당 60원 할인 제공)\n                                                                서비스 미선택시에는 ‘병원/약국’, ‘백화점’, ‘할인점’, ‘이동통신’, ‘택시/KTX’ 자동 선택"
+                ]
+            },
+            {
+                "title": "Platinum#",
+                "benefits": [
+                    "인천공항 우대 서비스",
+                    "주요지역 주차장 무료이용 서비스",
+                    "전국 7개 거리 내 패션/요식 관련 매장에서 2% 적립"
+                ]
+            },
+            {
+                "title": "잔돈 할인",
+                "benefits": [
+                    "건 당 결제금액의 1천원 미만의 잔돈 할인",
+                    "모든 영역에서 2만원 이상 결제 시, 잔돈 할인"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 카드 사용금액에 따라 5천원~7만원 통합할인한도 제공"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Love Platinum#",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188301_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBA69LG.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "쇼핑 할인",
+                "benefits": [
+                    "현대, 롯데, 신세계, 갤러리아 5% 할인",
+                    "이마트, 롯데마트, 홈플러스 5% 할인",
+                    "GS홈쇼핑 5% 할인"
+                ]
+            },
+            {
+                "title": "요식/커피 할인",
+                "benefits": [
+                    "패밀리레스토랑 20~30% 할인",
+                    "스타벅스 20% 할인"
+                ]
+            },
+            {
+                "title": "Love포인트 적립",
+                "benefits": [
+                    "신한은행/신한투자증권 CMA 결제계좌 연결 시 0.5% 적립",
+                    "신한은행 금융 상품 이용실적에 따라 0.1~0.5% 추가 적립"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 이용실적에 따른 통합할인한도 부여"
+                ]
+            },
+            {
+                "title": "쇼핑 무이자할부",
+                "benefits": [
+                    "현대, 롯데, 신세계, 갤러리아 2~3개월 무이자할부",
+                    "이마트, 롯데마트, 홈플러스 2~3개월 무이자할부"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV, 메가박스 7천원 할인"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "에버랜드, 캐리비안베이, 롯데월드, 서울랜드 본인 자유이용권 할인"
+                ]
+            },
+            {
+                "title": "Platinum#",
+                "benefits": [
+                    "인천공항 우대 서비스",
+                    "주요지역 주차장 무료이용 서비스",
+                    "전국 7개 거리 내 패션/요식 관련 매장에서 2% 적립"
+                ]
+            },
+            {
+                "title": "주유 할인",
+                "benefits": [
+                    "GS칼텍스 리터당 60원 할인"
+                ]
+            },
+            {
+                "title": "LG계열 할인",
+                "benefits": [
+                    "LG전자 5% 할인",
+                    "뷰티플렉스 10% 할인"
+                ]
+            },
+            {
+                "title": "스포츠할인",
+                "benefits": [
+                    "LG트윈스 정규시즌 홈경기 본인 2천원 할인",
+                    "LG세이커스 정규시즌 홈경기 본인 3천원 할인"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 집",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188410_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBE5BOX.png",
+        "card_benefits_category": "공공",
+        "card_benefits": [
+            {
+                "title": "주택임대료 할인",
+                "benefits": [
+                    "집카드 주택임대료 할인카드 특화 서비스",
+                    "주택임대료 자동이체 시 5천원~1만5천원 결제일 할인"
+                ]
+            },
+            {
+                "title": "신한은행 우대 서비스",
+                "benefits": [
+                    "신한은행 전자금융으로 이용한 타은행 이체수수료 및 신한은행 CD/ATM을 이용한 신한은행 계좌 현금인출수수료 면제(월 10회)"
+                ]
+            },
+            {
+                "title": "생활 할인",
+                "benefits": [
+                    "집카드 생활 할인카드 특화 서비스",
+                    "통신 및 인터넷, 보안업체 요금 자동이체 시 5천원~1만5천원 결제일 할인"
+                ]
+            },
+            {
+                "title": "기본 할인",
+                "benefits": [
+                    "아파트 관리비 자동이체 시 3천원 결제일 할인",
+                    "결제계좌 신한은행 연결 시 2천원 추가 할인(최대 5천원)",
+                    "교육료/병원·약국/3대 마트 이용금액 1% 결제일 할인"
+                ]
+            }
+        ]
+    }
+]

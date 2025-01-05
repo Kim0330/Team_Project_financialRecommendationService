@@ -1,0 +1,125 @@
+[
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Edu Plan+",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1228598_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBDBDMA.gif",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": [
+            {
+                "title": "학원비",
+                "benefits": [
+                    "기본 캐시백: 전월 이용금액별 3~10% 캐시백(최대 9만원)",
+                    "추가 캐시백: 학원비 결제 건수별 추가 캐시백(최대 1만원)"
+                ]
+            },
+            {
+                "title": "생활비",
+                "benefits": [
+                    "할인점: 3대 할인점 이용 시 1% 캐시백(최대 2천원)",
+                    "의료 및 정기 결제: 의료(병원/약국업종), 정기결제(도시가스, 전기요금, 이동통신) 이용 시 1% 캐시백(최대 2천원)"
+                ]
+            },
+            {
+                "title": "문화 취미",
+                "benefits": []
+            },
+            {
+                "title": "Edu Plan+ 유의사항",
+                "benefits": [
+                    "서비스 적용기준",
+                    "전월 이용금액 기준"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Edu",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188281_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBDAB6R_1.png",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": [
+            {
+                "title": "교육 캐시백",
+                "benefits": [
+                    "교육업종(일반전문학원, 학습지, 유치원) 5~10% 캐시백",
+                    "교육업종 이용 건수에 따라 3~5천원 추가 캐시백"
+                ]
+            },
+            {
+                "title": "아파트 관리비 캐시백",
+                "benefits": [
+                    "교육업종 결제 및 아파트 관리비 결제 동시 충족시 5천원 캐시백"
+                ]
+            },
+            {
+                "title": "생활 캐시백",
+                "benefits": [
+                    "3대 마트(홈플러스, 이마트, 롯데마트) 이용시 1% 캐시백",
+                    "의료업종(병원, 약국) 이용시 1% 캐시백"
+                ]
+            },
+            {
+                "title": "캐시백  유의사항",
+                "benefits": [
+                    "캐시백 서비스 유의사항"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Lesson Platinum#",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188299_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBA69LH.png",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": [
+            {
+                "title": "교육할인",
+                "benefits": [
+                    "LESSON I: 자녀 교육에 필요한 학원, 학습지, 독서실 업종 5% 할인",
+                    "LESSON II: 자녀 감성발달에 필요한 문화센터, 수영장, 스포츠센터, 볼링장, 테니스장 5% 할인",
+                    "LESSON III: 자녀 도서 구매할 때에도 YES24, 반디앤루니스, 영풍문고, 교보문고, 인터파크 도서, 알라딘 5% 할인"
+                ]
+            },
+            {
+                "title": "잔돈할인",
+                "benefits": [
+                    "COIN-SAVE 잔돈 할인",
+                    "자주가는 생활친화 가맹점에서 건당 1만원 이상 결제 시 1천원 미만의 잔돈은 할인",
+                    "그 외 가맹점에서 건당 3만원 이상 결제 시 1천원 미만의 잔돈은 할인"
+                ]
+            },
+            {
+                "title": "문화센터 찾기",
+                "benefits": [
+                    "검색하시고자하는 가맹점을 찾기"
+                ]
+            },
+            {
+                "title": "Platinum#",
+                "benefits": [
+                    "인천공항 우대 서비스",
+                    "주요지역 주차장 무료이용 서비스",
+                    "전국 7개 거리 내 패션/요식 관련 매장에서 2% 적립"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    }
+]

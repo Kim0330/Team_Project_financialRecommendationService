@@ -1,0 +1,66 @@
+[
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "신한카드 하이패스(전용) 체크(SIM형)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188346_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckCAHB20.png",
+        "card_benefits_category": "주유/교통",
+        "card_benefits": [
+            {
+                "title": "하이패스 적립",
+                "benefits": [
+                    "하이패스 이용요금의 0.1% 마이신한포인트 적립",
+                    "발급월 포함 2개월 실적 관계없이 제공(이후, 고객보유 체크카드 전월 10만원 이상 시 제공)"
+                ]
+            },
+            {
+                "title": "하이패스 할인",
+                "benefits": [
+                    "출퇴근시간대(월~금) 통행료 20%~50% 자동할인(민자도로 제외)",
+                    "판교↔청계, 판교↔성남, 연계통행료 자동 면제"
+                ]
+            },
+            {
+                "title": "하이패스 이용안내",
+                "benefits": [
+                    "HI-PASS(전용) 체크(SIM형) 카드 안내"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "SOCAR 제휴 SOCAR 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188332_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBE1BLL.png",
+        "card_benefits_category": "주유/교통",
+        "card_benefits": [
+            {
+                "title": "SOCAR 할인",
+                "benefits": [
+                    "SOCAR 결제 시 10% 할인(캐시백)"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "통합할인한도 및 유의사항 안내"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "영화 이용 시 10% 할인(캐시백)"
+                ]
+            },
+            {
+                "title": "철도 할인",
+                "benefits": [
+                    "KTX, SRT 포함한 철도 이용 시 5% 할인(캐시백)"
+                ]
+            }
+        ]
+    }
+]

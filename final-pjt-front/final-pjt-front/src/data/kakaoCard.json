@@ -1,0 +1,175 @@
+[
+{
+    "model": "test_app.card",
+    "pk": 1,
+    "fields": {
+        "card_company": "광주",
+        "card_type": "신용카드",
+        "card_name": "1st카드",
+        "card_url": "https://www.kjbank.com/ib20/mnu/FPMCARD020103?ib20_cur_mnu=FPMCARD020102&ib20_cur_wgt=FPMCARD020102V10",
+        "card_img": "kiahttps://imgs.kjbank.com/resource/img/fpm/card/kjcard_credit_5173.png",
+        "card_benefits_category": "주유, 교통",
+        "card_benefits": {
+            "title": "",
+            "benefits": [
+                "전 가맹점 0.5% 적립/캐시백",
+                "영화관 3천원 적립/캐시백",
+                "선택 2개 업종 1.2% 적립/캐시백"
+            ]
+        }
+    }
+},
+{
+    "model": "test_app.card",
+    "pk": 2,
+    "fields": {
+        "card_company": "카카오뱅크",
+        "card_type": "체크카드",
+        "card_name": "프렌즈 체크카드",
+        "card_url": "https://event.kakaobank.com/p/card_benefit",
+        "card_img": "https://og.kakaobank.io/view/7bce0292-b31a-455d-8957-10cde880fbbf",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": {
+            "title": "캐시백 프로모션",
+            "benefits": [
+                "쿠팡/오늘의 집 3천원 캐시백(5만원 이상 결제 시)",
+                "올리브영 2천원 캐시백(3만원 이상 결제 시), 동물병원 3천원 캐시백(5만원 이상 결제 시)",
+                "배달의 민족 2천원 캐시백(2만원 이상 결제 시), 스타벅스 1천원 캐시백(1만원 이상 결제 시)",
+                "GS칼텍스 3천원 캐시백(5만원 이상 결제 시), 휴대전화요금 3천원 캐시백(5만원 이상 자동결제 시)",
+                "골프 1만원 캐시백(20만원 이상 결제 시), 병원 1만원 캐시백(20만원 이상 결제 시)"
+            ]
+        }
+    }
+},
+{
+    "model": "test_app.card",
+    "pk": 3,
+    "fields": {
+        "card_company": "카카오뱅크",
+        "card_type": "\b체크카드",
+        "card_name": "카카오뱅크 모임 체크카드",
+        "card_url": "https://www.kakaobank.com/products/moimcheckcard",
+        "card_img": "",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": {
+            "title": "모임 체크카드를 계속 사용하려면 모임통장 사용도 유지",
+            "benefits": [
+                "국내외 어디서나 5만원 이상 결제 즉시 300원 또는 3,000원 랜덤 캐시백(~2024.12.31까지)"
+            ]
+        }
+    }
+},
+{
+    "model": "test_app.card",
+    "pk": 4,
+    "fields": {
+        "card_company": "카카오뱅크",
+        "card_type": "\b신용카드",
+        "card_name": "카카오뱅크 KB국민카드",
+        "card_url": "https://www.kakaobank.com/products/associatedCard",
+        "card_img": "",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": {
+            "title": "",
+            "benefits": [
+                "카카오페이/편의점/영화 3천원 할인, 숙박/공연/음악 5천원 할인"
+            ]
+        }
+    }
+},
+{
+    "model": "test_app.card",
+    "pk": 5,
+    "fields": {
+        "card_company": "카카오뱅크",
+        "card_type": "신용카드",
+        "card_name": "카카오뱅크 삼성카드",
+        "card_url": "https://www.kakaobank.com/products/associatedCard",
+        "card_img": "",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": {
+            "title": "",
+            "benefits": [
+                "국내외 가맹점/마트/편의점 기본 할인,자주 가는 곳에선 월 최대 2만원 할인",
+                "연회비 (국내전용 7천원, Master/VISA 7천원)"
+            ]
+        }
+    }
+},
+{
+    "model": "test_app.card",
+    "pk": 6,
+    "fields": {
+        "card_company": "카카오뱅크",
+        "card_type": "신용카드",
+        "card_name": "카카오뱅크 롯데카드",
+        "card_url": "https://www.kakaobank.com/products/associatedCard",
+        "card_img": "",
+        "card_benefits_category": "외식/카페",
+        "card_benefits": {
+            "title": "",
+            "benefits": [
+                "카카오페이/스트리밍/배달 등 최대 3만원 캐시백, 일반 가맹점 조건없이 0.5% 캐시백",
+                "연회비 (국내전용 1만5천원, Master/VISA/AMEX 1만5천원)"
+            ]
+        }
+    }
+},
+{
+    "model": "test_app.card",
+    "pk": 7,
+    "fields": {
+        "card_company": "카카오뱅크",
+        "card_type": "신용카드",
+        "card_name": "카카오뱅크 신한카드 Time",
+        "card_url": "https://www.kakaobank.com/products/associatedCard",
+        "card_img": "",
+        "card_benefits_category": "주유/교통",
+        "card_benefits": {
+            "title": "",
+            "benefits": [
+                "시간대별 소비에 맞게 10% Time 할인, 대중교통 10% 할인, 카카오 T택시 최대 4천원 할인",
+                "연회비 (국내전용 1만5천원, Master 1만8천원)"
+            ]
+        }
+    }
+},
+{
+    "model": "test_app.card",
+    "pk": 8,
+    "fields": {
+        "card_company": "카카오뱅크",
+        "card_type": "신용카드",
+        "card_name": "카카오뱅크 BUSINESS 현대카드",
+        "card_url": "https://www.kakaobank.com/products/associatedCard",
+        "card_img": "",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": {
+            "title": "",
+            "benefits": [
+                "모든 가맹점 1% M포인트 적립, 온라인쇼핑, 해외 등 사업영역 5% 적립",
+                "연회비 (국내전용 3만원, VISA/AMEX 3만원)"
+            ]
+        }
+    }
+},
+{
+    "model": "test_app.card",
+    "pk": 9,
+    "fields": {
+        "card_company": "카카오뱅크",
+        "card_type": "신용카드",
+        "card_name": "카카오뱅크 BUSINESS 현대카드 PRIME",
+        "card_url": "https://www.kakaobank.com/products/associatedCard",
+        "card_img": "",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": {
+            "title": "",
+            "benefits": [
+                "최대 5% M포인트 적립, 10만원권 바우처, 공항라운지 무료, 메탈플레이트 옵션 제공",
+                "연회비 (국내전용 15만원, VISA 15만원)"
+            ]
+        }
+    }
+}
+]

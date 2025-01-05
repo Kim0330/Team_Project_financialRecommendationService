@@ -1,0 +1,227 @@
+[
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 SOL트래블",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1227751_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBUCDKH.gif",
+        "card_benefits_category": "여행",
+        "card_benefits": [
+            {
+                "title": "해외 이용 수수료 빼기 서비스",
+                "benefits": [
+                    "국제브랜드 수수료(1%) 면제",
+                    "해외서비스 수수료(0.18%) 면제",
+                    "환전수수료 면제(환율 우대 100%)",
+                    "해외 ATM 이용 인출 수수료(건당 $3)"
+                ]
+            },
+            {
+                "title": "해외 이용 더하기 서비스",
+                "benefits": []
+            },
+            {
+                "title": "국내 이용 더하기 서비스",
+                "benefits": [
+                    "국내 이용금액 기본 0.5% 마이신한포인트 적립",
+                    "국내 여행, 교통, 쇼핑, 맛집, 운동 영역 추가 1.5% 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "전 세계 공항라운지 무료 이용 서비스",
+                "benefits": []
+            },
+            {
+                "title": "신한카드 SOL트래블 유의사항",
+                "benefits": [
+                    "전월 이용금액 및 혜택 제공 한도",
+                    "전월 이용금액 산정 기준",
+                    "해외 이용 수수료 빼기, 해외 이용 더하기 서비스 유의사항",
+                    "국내·해외 이용 더하기 서비스 유의사항"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Globus",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1221213_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBUAD6J.gif",
+        "card_benefits_category": "여행",
+        "card_benefits": [
+            {
+                "title": "해외 수수료 할인",
+                "benefits": [
+                    "국제브랜드사 수수료 1% 할인",
+                    "해외서비스 수수료 0.18% 할인"
+                ]
+            },
+            {
+                "title": "마이신한포인트 적립",
+                "benefits": [
+                    "기본 적립 국내 이용금액 0.7% 적립",
+                    "특별 적립 해외 이용금액 1.7% 적립"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "서비스 제공 기준",
+                    "전월 이용금액 산정 기준"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "아시아나 신한카드 Air 1.5",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188278_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBFAB8J.png",
+        "card_benefits_category": "여행",
+        "card_benefits": [
+            {
+                "title": "마일리지 적립",
+                "benefits": [
+                    "아시아나 마일리지 적립",
+                    "국내/해외 가맹점 이용금액 1천원당 1.5마일리지 적립",
+                    "해외 가맹점 이용금액 1천원당 1.5마일리지 추가 적립"
+                ]
+            },
+            {
+                "title": "적립안내",
+                "benefits": [
+                    "마일리지 적립 세부 안내"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Air One",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1187901_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBFBBQ0_1.png",
+        "card_benefits_category": "여행",
+        "card_benefits": [
+            {
+                "title": "마일리지 적립",
+                "benefits": [
+                    "대한항공 마일리지 적립",
+                    "국내 일시불·할부, 해외 일시불 이용금액 1천원당 1마일리지 적립",
+                    "국내 항공/면세 업종, 해외 일시불 이용금액 1천원당 1마일리지 추가 적립"
+                ]
+            },
+            {
+                "title": "적립안내",
+                "benefits": [
+                    "마일리지 적립 세부 안내",
+                    "이용금액 실적 산정기준 세부 안내"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Air Platinum#",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1187946_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAFJAPT.png",
+        "card_benefits_category": "여행",
+        "card_benefits": [
+            {
+                "title": "마일리지 적립",
+                "benefits": [
+                    "대한항공 마일리지/아시아나항공 마일리지(택1)",
+                    "대한항공: 전 가맹점 일시불, 할부 이용액 1,500원당 1마일리지 적립",
+                    "아시아나항공: 전 가맹점 일시불, 할부 이용액 1천원당 1마일리지 적립"
+                ]
+            },
+            {
+                "title": "마이신한포인트 적립",
+                "benefits": [
+                    "마이신한포인트 추가 적립",
+                    "골프장/해외일시불/주유/쇼핑/요식 이용 금액 마이신한포인트 추가 적립"
+                ]
+            },
+            {
+                "title": "Platinum#",
+                "benefits": [
+                    "인천공항 우대 서비스",
+                    "주요지역 주차장 무료이용 서비스",
+                    "전국 7개 거리 내 패션/요식 관련 매장에서 2% 적립"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Air Platinum#(더헤븐 리조트)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1226729_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditAFJDKA.png",
+        "card_benefits_category": "여행",
+        "card_benefits": [
+            {
+                "title": "마일리지 적립",
+                "benefits": [
+                    "대한항공 마일리지/아시아나항공 마일리지(택1)",
+                    "대한항공: 전 가맹점 일시불, 할부 이용액 1,500원당 1마일리지 적립",
+                    "아시아나항공: 전 가맹점 일시불, 할부 이용액 1천원당 1마일리지 적립"
+                ]
+            },
+            {
+                "title": "마이신한포인트 적립",
+                "benefits": [
+                    "마이신한포인트 추가 적립",
+                    "골프장/해외일시불/주유/쇼핑/요식 이용 금액 마이신한포인트 추가 적립"
+                ]
+            },
+            {
+                "title": "Platinum#",
+                "benefits": [
+                    "인천공항 우대 서비스",
+                    "주요지역 주차장 무료이용 서비스",
+                    "전국 7개 거리 내 패션/요식 관련 매장에서 2% 적립"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "신한카드 TEENS(틴즈) PLUS PONEY 체크 후불교통",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1196327_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBGAC51.png",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": [
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV 2천원 현장 할인(월 1회)"
+                ]
+            },
+            {
+                "title": "서비스 상세기준",
+                "benefits": [
+                    "서비스 적용 기준 안내"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "테마파크 50% 할인(롯데월드, 서울랜드)",
+                    "본인 자유이용권, 온라인 및 현장 매표소",
+                    "일1회, 연3회"
+                ]
+            },
+            {
+                "title": "영푸드 캐시백",
+                "benefits": [
+                    "베스킨라빈스/던킨도너츠/KFC/버거킹 이용금액의 5% 캐시백"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "신한카드 TEENS(틴즈) PLUS PONEY 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188314_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBGABA3.png",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": [
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV 2천원 현장 할인(월 1회)"
+                ]
+            },
+            {
+                "title": "교통카드 충전",
+                "benefits": [
+                    "Tmoney 선불기능 기본 탑재"
+                ]
+            },
+            {
+                "title": "테마파크 할인",
+                "benefits": [
+                    "테마파크 50% 할인(롯데월드, 서울랜드)",
+                    "본인 자유이용권, 온라인 및 현장 매표소",
+                    "일1회, 연3회"
+                ]
+            },
+            {
+                "title": "서비스 상세기준",
+                "benefits": [
+                    "서비스 적용 기준 안내"
+                ]
+            },
+            {
+                "title": "영푸드 캐시백",
+                "benefits": [
+                    "베스킨라빈스/던킨도너츠/KFC/버거킹 이용금액의 5% 캐시백"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "KBO 제휴 신한카드 MY KBO 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188336_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBEYBLC.png",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": [
+            {
+                "title": "포인트 적립",
+                "benefits": [
+                    "국내/외 신판이용 가맹점 0.2% 적립"
+                ]
+            },
+            {
+                "title": "야구 할인",
+                "benefits": [
+                    "사용금액에 따라 전구단 대상 결제일 정규시즌 야구할인 서비스 제공"
+                ]
+            },
+            {
+                "title": "신한은행 우대 서비스",
+                "benefits": [
+                    "신한은행 전자금융(인터넷, 폰뱅킹(ARS), 신한 SOL뱅크 앱)으로 이용한 다른 은행 이체 수수료 및 신한은행 CD/ATM을 이용한 신한은행 계좌의 현금인출수수료 면제"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "체크카드",
+        "card_name": "리디 신한카드 체크",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/check/1188337_2206.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCheckBETBFW.png",
+        "card_benefits_category": "문화/교육",
+        "card_benefits": [
+            {
+                "title": "리디북스 할인",
+                "benefits": [
+                    "리디북스 이용 시 10% 할인(캐시백)"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 이용실적에 따른 통합할인한도 부여"
+                ]
+            },
+            {
+                "title": "영화 할인",
+                "benefits": [
+                    "CGV, 롯데시네마, 메가박스 예매시 10% 할인(캐시백)"
+                ]
+            },
+            {
+                "title": "영푸드 할인",
+                "benefits": [
+                    "KFC 이용시 10% 할인(캐시백)"
+                ]
+            }
+        ]
+    }
+]

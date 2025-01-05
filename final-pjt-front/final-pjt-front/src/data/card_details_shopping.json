@@ -1,0 +1,249 @@
+[
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Unboxing",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1198302_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBCECA3_1.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "10% 캐시백",
+                "benefits": [
+                    "기본 최대 5만원 캐시백",
+                    "해외 이용 시 최대 2만원 캐시백 한도 추가 제공"
+                ]
+            },
+            {
+                "title": "언박싱 스페셜 할인",
+                "benefits": [
+                    "건당 2,500원 할인 / 월 최대 6회 할인"
+                ]
+            },
+            {
+                "title": "공통 유의사항",
+                "benefits": [
+                    "공통 유의사항 안내"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Deep Store",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188279_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBCBBLO.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "생활쇼핑 할인",
+                "benefits": [
+                    "생활쇼핑 가맹점 기본 10% 할인",
+                    "생활쇼핑 가맹점 1회 이용금액 5만원 이상 시 추가 5% 할인(총 15% 할인)"
+                ]
+            },
+            {
+                "title": "커피/제과점 할인",
+                "benefits": [
+                    "커피전문점/제과점 업종 10% 할인"
+                ]
+            },
+            {
+                "title": "주말 할인",
+                "benefits": [
+                    "주말 복합 쇼핑몰 10% 할인",
+                    "주말 3대마트 10% 할인",
+                    "주말 롯데시네마 현장 예매 5천원 할인"
+                ]
+            },
+            {
+                "title": "해외 적립",
+                "benefits": [
+                    "Master브랜드 선택 시 해외서비스 수수료 0.18% 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 이용실적에 따른 통합할인한도 부여"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Deep Store(우리먹거리)",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1229261_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreditBCBDNA.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "생활쇼핑 할인",
+                "benefits": [
+                    "생활쇼핑 가맹점 기본 10% 할인",
+                    "생활쇼핑 가맹점 1회 이용금액 5만원 이상 시 추가 5% 할인(총 15% 할인)"
+                ]
+            },
+            {
+                "title": "커피/제과점 할인",
+                "benefits": [
+                    "커피전문점/제과점 업종 10% 할인"
+                ]
+            },
+            {
+                "title": "주말 할인",
+                "benefits": [
+                    "주말 복합 쇼핑몰 10% 할인",
+                    "주말 3대마트 10% 할인",
+                    "주말 롯데시네마 현장 예매 5천원 할인"
+                ]
+            },
+            {
+                "title": "해외 적립",
+                "benefits": [
+                    "Master브랜드 선택 시 해외서비스 수수료 0.18% 마이신한포인트 적립"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 이용실적에 따른 통합할인한도 부여"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Deep On Platinum+",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188280_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditAXDBMR.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "간편결제 할인",
+                "benefits": [
+                    "10대 간편결제(Pay)이용 시 10% 할인",
+                    "온라인배달, 온라인슈퍼 이용 시 추가 10% 할인"
+                ]
+            },
+            {
+                "title": "편의점 할인",
+                "benefits": [
+                    "GS25, CU, 세븐일레븐, 이마트24 20% 할인"
+                ]
+            },
+            {
+                "title": "생활 할인",
+                "benefits": [
+                    "올리브영, 다이소 20% 할인"
+                ]
+            },
+            {
+                "title": "커피 할인",
+                "benefits": [
+                    "스타벅스, 투썸플레이스 20% 할인"
+                ]
+            },
+            {
+                "title": "월납 할인",
+                "benefits": [
+                    "쿠팡/위메프 정기배송, 프레딧, 리디북스 20% 할인"
+                ]
+            },
+            {
+                "title": "통합할인한도",
+                "benefits": [
+                    "전월 이용실적에 따른 통합할인한도 부여"
+                ]
+            },
+            {
+                "title": "Platinum+",
+                "benefits": [
+                    "제주항공, 에어부산 10% 할인",
+                    "해외 이용금액 10% 캐시백"
+                ]
+            },
+            {
+                "title": "Platinum",
+                "benefits": [
+                    "국제 브랜드사 서비스(플래티늄 등급 선택 시 제공)"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "신한카드 Shopping",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1187935_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditBCAAZX.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "쇼핑 할인",
+                "benefits": [
+                    "5대 백화점 10% 할인(롯데, 현대, 신세계, 갤러리아, AK 백화점)",
+                    "5대 마트 10% 할인(이마트, 홈플러스, 롯데마트, 메가마트, 탑마트)",
+                    "창고형 할인매장 10% 할인(이마트 트레이더스, 롯데 VIC마켓, IKEA)",
+                    "프리미엄 아울렛 10% 할인(롯데, 현대, 신세계 사이먼)",
+                    "홈쇼핑 10% 할인(CJ오쇼핑, GS홈쇼핑)",
+                    "소셜커머스 10% 할인(쿠팡, 티켓몬스터)"
+                ]
+            },
+            {
+                "title": "생활 할인",
+                "benefits": [
+                    "커피전문점 10% 할인(스타벅스, 커피빈, 카페베네, 엔제리너스, 투썸플레이스)",
+                    "잡화 10% 할인(올리브영, 다이소)",
+                    "온라인서점 10% 할인(교보, 예스24, 반디앤루니스, 알라딘)",
+                    "4대 정유사 리터당 60원 할인(SK에너지, GS칼텍스, 에이치디현대오일뱅크, S-Oil)"
+                ]
+            },
+            {
+                "title": "해외이용 캐시백",
+                "benefits": [
+                    "해당카드로 전년도 국내이용금액(일시불+할부) 1천만원 이상인 고객에 대하여, 연간 해외 일시불 이용금액의 5% 캐시백 제공 (년 1회, 최대 5만원)"
+                ]
+            },
+            {
+                "title": "제휴 할인",
+                "benefits": [
+                    "마켓컬리, 프레딧, 집반찬연구소 10% 할인"
+                ]
+            }
+        ]
+    },
+    {
+        "card_company": "신한",
+        "card_type": "신용카드",
+        "card_name": "BC 부자되세요 홈쇼핑 신한카드",
+        "card_url": "https://www.shinhancard.com/pconts/html/card/apply/credit/1188308_2207.html",
+        "card_img": "https://www.shinhancard.com/pconts/images/contents/card/plate/cdCreaditZAKAUJ.png",
+        "card_benefits_category": "쇼핑",
+        "card_benefits": [
+            {
+                "title": "홈쇼핑 할인",
+                "benefits": [
+                    "6대 홈쇼핑(CJ 오쇼핑, GS SHOP, NS홈쇼핑, 롯데홈쇼핑, 현대홈쇼핑, 홈&쇼핑) 이용금액의 6% 결제일 할인"
+                ]
+            },
+            {
+                "title": "생활 할인",
+                "benefits": [
+                    "패밀리레스토랑(아웃백, VIPS, TGIF) 20% 결제일 할인",
+                    "커피 전문점(스타벅스, 커피빈, 카페베네, 탐앤탐스, 투썸플레이스) 15% 결제일 할인",
+                    "베이커리(파리바게트, 뚜레쥬르, 던킨도너츠, 베스킨라빈스) 15% 결제일 할인"
+                ]
+            }
+        ]
+    }
+]
