@@ -83,10 +83,12 @@
 
 
 ### 💸 데이터베이스 모델링(ERD)<hr>
-![alt text](ERD.JPG)
+![alt text](final-pjt-front/final-pjt-front/images/ERD.JPG)
 
 ### 💸 생성형 AI 를 활용한 부분<hr>
-![alt text](image.png)![alt text](image-1.png)
+![alt text](final-pjt-front/final-pjt-front/image-1.png)
+![alt text](final-pjt-front/final-pjt-front/image.png)
+
 ### 💸 기타(느낀 점, 후기 등)<hr>
 #### 🌱 김서린
 
